@@ -1,0 +1,1303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2017v2.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2018-03-30T00:16:34-05:00</ReturnTs>
+    <TaxPeriodEndDt>2017-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>954557548</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>ARXIS FINANCIAL INC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2468 TAPO CANYON ROAD</AddressLine1Txt>
+        <CityNm>SIMI VALLEY</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>93063</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>311815521</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>CARL AND HENRIETTA HERRMANN FAMILY</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>FOUNDATION</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>CARL</BusinessNameControlTxt>
+      <PhoneNum>6264418771</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>899 EL CENTRO STREET SUITE 101</AddressLine1Txt>
+        <CityNm>SOUTH PASADENA</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>91030</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>CATHERINE L HERRMANN KERLEY</PersonNm>
+      <PersonTitleTxt>MANAGER</PersonTitleTxt>
+      <PhoneNum>6264418771</PhoneNum>
+      <SignatureDt>2018-03-30</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>ROBERT C GABY CPA</PreparerPersonNm>
+      <PTIN>P00000297</PTIN>
+      <PhoneNum>8053067890</PhoneNum>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>99.106.240.8</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2018-03-30</IPDt>
+      <IPTm>00:16:32</IPTm>
+      <IPTimezoneCd>PD</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>DA39A3EE5E6B4B0D3255BFEF95601890AFD80709</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>95688787AB1EB9BD659F086FAF42568154D2A0D4</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2018-06-14 16:35:46Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="9">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>3647835</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>567</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>567</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>567</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>14729</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>14729</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>14729</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-166930</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>298353</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc2001500001">174434</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>174434</OtherIncomeNetInvstIncmAmt>
+        <OtherIncomeAdjNetIncmAmt>174434</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>22800</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>189730</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>189730</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstAdjNetIncmAmt>0</CompOfcrDirTrstAdjNetIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002100001">250</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>250</LegalFeesNetInvstIncmAmt>
+        <LegalFeesAdjNetIncmAmt>250</LegalFeesAdjNetIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>0</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">13100</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>13100</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>13100</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>0</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">70191</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>70191</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>70191</OtherProfFeesAdjNetIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>0</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">27</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>27</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>27</TaxesAdjNetIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">25</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>25</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>25</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>0</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>83593</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>83593</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>83593</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>185000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>185000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>268593</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>83593</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>83593</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>185000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-245793</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>106137</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>106137</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>379739</CashBOYAmt>
+        <SavAndTempCashInvstBOYAmt>824527</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>1646887</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>1646887</SavAndTempCashInvstEOYFMVAmt>
+        <OtherNtsAndLoansRcvblAmt>1518565</OtherNtsAndLoansRcvblAmt>
+        <OtherRcvblAllwncDbtflAcctAmt>0</OtherRcvblAllwncDbtflAcctAmt>
+        <OtherNtsAndLoansRcvblBOYAmt>2136853</OtherNtsAndLoansRcvblBOYAmt>
+        <OtherNtsAndLoansRcvblEOYAmt>1518565</OtherNtsAndLoansRcvblEOYAmt>
+        <OtherNtsAndLoansRcvblEOYFMVAmt>1518565</OtherNtsAndLoansRcvblEOYFMVAmt>
+        <CorporateStockBOYAmt>188681</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">481488</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>482383</CorporateStockEOYFMVAmt>
+        <LandBldgInvestmentsBOYAmt>297189</LandBldgInvestmentsBOYAmt>
+        <TotalAssetsBOYAmt>3826989</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>3646940</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>3647835</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc2065700001">0</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc2065700001">65744</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>65744</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>0</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>0</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>3826989</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>3581196</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>3826989</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>3581196</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>3826989</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>3646940</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>3826989</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-245793</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>3581196</SubtotalAmt>
+        <OtherDecreasesAmt>0</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>3581196</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>AMERICAN FINL</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-01-20</AcquiredDt>
+          <SoldDt>2017-06-26</SoldDt>
+          <GrossSalesPriceAmt>7500</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7656</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-156</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-156</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>APOLLO</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-08-03</AcquiredDt>
+          <SoldDt>2017-10-15</SoldDt>
+          <GrossSalesPriceAmt>6250</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6344</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-94</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-94</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>FIRST REPUBLIC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-10-24</AcquiredDt>
+          <SoldDt>2017-06-16</SoldDt>
+          <GrossSalesPriceAmt>6250</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6393</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-143</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-143</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>KKR FINANCIAL</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-10-24</AcquiredDt>
+          <SoldDt>2017-04-24</SoldDt>
+          <GrossSalesPriceAmt>5000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5159</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-159</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-159</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>KIMCO</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-01-20</AcquiredDt>
+          <SoldDt>2017-09-06</SoldDt>
+          <GrossSalesPriceAmt>5700</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5660</CostOrOtherBasisAmt>
+          <GainOrLossAmt>40</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>40</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MAIDEN</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-10-24</AcquiredDt>
+          <SoldDt>2017-06-27</SoldDt>
+          <GrossSalesPriceAmt>6250</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6430</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-180</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-180</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>NEXTERA</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-10-24</AcquiredDt>
+          <SoldDt>2017-10-22</SoldDt>
+          <GrossSalesPriceAmt>6250</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6460</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-210</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-210</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>NEXTERA</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-01-20</AcquiredDt>
+          <SoldDt>2017-10-22</SoldDt>
+          <GrossSalesPriceAmt>7500</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7353</CostOrOtherBasisAmt>
+          <GainOrLossAmt>147</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>147</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PRUDENTIAL</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-01-20</AcquiredDt>
+          <SoldDt>2017-08-03</SoldDt>
+          <GrossSalesPriceAmt>10499</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9871</CostOrOtherBasisAmt>
+          <GainOrLossAmt>628</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>628</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLIC STORAGE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-01-20</AcquiredDt>
+          <SoldDt>2017-07-26</SoldDt>
+          <GrossSalesPriceAmt>12500</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>12532</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-32</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-32</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLIC STORAGE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-01-20</AcquiredDt>
+          <SoldDt>2017-09-28</SoldDt>
+          <GrossSalesPriceAmt>37500</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>38049</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-549</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-549</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SCE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-01-20</AcquiredDt>
+          <SoldDt>2017-07-19</SoldDt>
+          <GrossSalesPriceAmt>10000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9724</CostOrOtherBasisAmt>
+          <GainOrLossAmt>276</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>276</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>TORCHMARK</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-10-02</AcquiredDt>
+          <SoldDt>2017-12-22</SoldDt>
+          <GrossSalesPriceAmt>25000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>25362</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-362</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-362</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>KIMCO</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-01-20</AcquiredDt>
+          <SoldDt>2017-09-06</SoldDt>
+          <GrossSalesPriceAmt>48</GrossSalesPriceAmt>
+          <GainOrLossAmt>48</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>48</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLIC STORAGE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-01-20</AcquiredDt>
+          <SoldDt>2017-07-26</SoldDt>
+          <GrossSalesPriceAmt>51</GrossSalesPriceAmt>
+          <GainOrLossAmt>51</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>51</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>315 6TH STREET</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-06-30</AcquiredDt>
+          <SoldDt>2017-03-09</SoldDt>
+          <GrossSalesPriceAmt>151800</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>318290</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-166490</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-166490</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAINS DIVIDENDS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>255</GrossSalesPriceAmt>
+          <GainOrLossAmt>255</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>255</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-166930</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>-167185</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>0</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>214564</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>3855213</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.055656</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>197680</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>4054117</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.048760</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>159613</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>4023983</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.039665</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>161599</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>3536853</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.045690</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>162416</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>3334294</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.048711</DistributionYr5Rt>
+        <TotalDistributionRt>0.238482</TotalDistributionRt>
+        <AverageDistributionRt>0.047696</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>3665143</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>174813</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>1061</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>175874</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>185000</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>1061</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>1061</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1061</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>1168</EstimatedPlusOvpmtIncmTxAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>1168</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>0</EsPenaltyAmt>
+        <OverpaymentAmt>107</OverpaymentAmt>
+        <AppliedToESTaxAmt>107</AppliedToESTaxAmt>
+        <RefundAmt>0</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>0</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>IL</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>LISA AVILES</IndividualWithBooksNm>
+        <PhoneNum>6264418771</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>899 EL CENTRO STREET SUITE 101</AddressLine1Txt>
+          <CityNm>SOUTH PASADENA</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91030</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CATHERINE L HERRMANN KERLEY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2354 CHAPMAN</AddressLine1Txt>
+            <CityNm>LA CRESCENTA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91214</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CARRON M HERRMANN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>592 ALLENS CREEK ROAD</AddressLine1Txt>
+            <CityNm>ROCHESTER</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>14618</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CARL L HERRMANN III</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>899 EL CENTRO STREET SUITE 10</AddressLine1Txt>
+            <CityNm>SOUTH PASADENA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91030</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CHRISTOPHER M HERRMANN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>464 KNIGHT WAY</AddressLine1Txt>
+            <CityNm>LA CANADA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91011</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>SCMC</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>899 EL CENTRO STREET</AddressLine1Txt>
+            <CityNm>SOUTH PASADENA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91030</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>MANAGEMENT</ServiceTypeTxt>
+          <CompensationAmt>50400</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>1425577</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>2295380</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>3720957</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>3720957</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>55814</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>3665143</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>183257</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>183257</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1061</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1061</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>182196</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>182196</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>182196</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>185000</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>185000</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>1061</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>183939</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>182196</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>179711</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <TotalExcessDistributionCyovAmt>0</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>185000</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>179711</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>5289</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>0</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>176907</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>0</ExcessDistriCyovToNextYrAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>CATHERINE L HERRMANN KERLEY</ContributingManagerNm>
+        <ContributingManagerNm>CARRON M HERRMANN</ContributingManagerNm>
+        <ContributingManagerNm>CARL L HERRMANN III</ContributingManagerNm>
+        <ContributingManagerNm>CHRISTOPHER M HERRMANN</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMERICAN FIBROMYALGIA SYNDROME</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 32698</AddressLine1Txt>
+            <CityNm>TUCSON</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85751</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ARTHRITIS FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>800 W 6TH ST 1250</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90017</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT AND IN PARTICULAR FIBROMYALGIA RESEARCH.</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BREAST CANCER FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1388 SUTTER STREET 400</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CALTECH ASSOCIATES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1200 E CALIFORNIA BLVD</AddressLine1Txt>
+            <CityNm>PASADENA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91125</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CATHOLIC BIG BROTHERS BIG SISTERS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1530 JAMES M WOOD BLVD 2ND FL</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90015</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHOICESS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>348 E FOOTHILL BLVD</AddressLine1Txt>
+            <CityNm>ARCADIA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHRIST CHILD SOCIETY OF PASADENA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 50914</AddressLine1Txt>
+            <CityNm>PASADENA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91115</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHURCH OF OUR SAVIOR</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4368 SANTA ANITA AVENUE</AddressLine1Txt>
+            <CityNm>EL MONTE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91731</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CITY OF HOPE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1500 DUARTE ROAD</AddressLine1Txt>
+            <CityNm>DUARTE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91010</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DIABETES RESEARCH FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>200 SOUTH PARK RD 100</AddressLine1Txt>
+            <CityNm>HOLLYWOOD</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33021</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EDUCATING AUTISTICS CHAIN MAI FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1222 PRESERVATION PARK WAY</AddressLine1Txt>
+            <CityNm>OAKLAND</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94612</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ELIZABETH HOUSE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 94077</AddressLine1Txt>
+            <CityNm>PASADENA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FLINTRIDGE SACRED HEART ACADEMY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>440 ST KATHERINE DRIVE</AddressLine1Txt>
+            <CityNm>LA CANADA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91011</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FRIENDS OF THE SOUTH PASADENA PUBLIC LIB</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1100 OXLEY STREET</AddressLine1Txt>
+            <CityNm>SOUTH PASADENA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91030</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HUNTINGTON LIBRARY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1151 OXFORD ROAD</AddressLine1Txt>
+            <CityNm>SAN MARINO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HUNTINGTON MEDICAL RESEARCH INSTITUTES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>99 N EL MOLINO AVE</AddressLine1Txt>
+            <CityNm>PASADENA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LA BALLONA EDUCATION PARTNERS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10915 WASHINGTON BLVD</AddressLine1Txt>
+            <CityNm>CULVER CITY</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90232</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LEUKEMIA &amp; LYMPHOMA SOCIETY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4929 WILSHIRE BLVD 800</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90010</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LOS ANGELES ARBORETUM FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>301 N BALDWIN AVE</AddressLine1Txt>
+            <CityNm>ARCADIA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91007</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>33500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MARY HEALTH OF THE SICK CONVALESCENT &amp; NURSING HOSPITAL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2929 THERESA DR</AddressLine1Txt>
+            <CityNm>NEWBURY PARK</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91320</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MUSCULAR DISTROPHY ASSOCIATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>720 SOUTH COLORADO BLVD 380</AddressLine1Txt>
+            <CityNm>S DENVER</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80246</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NORTHVIEW HIGH SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1016 W CYPRESS STREET</AddressLine1Txt>
+            <CityNm>COVINA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91722</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>7000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NOTRE DAME HIGH SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>13645 RIVERSIDE DRIVE</AddressLine1Txt>
+            <CityNm>SHERMAN OAKS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91423</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OUR LADY OF GUADALUPE CHURCH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>16025 EAST CYPRESS STREET</AddressLine1Txt>
+            <CityNm>IRWINDALE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91706</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PASADENA EDUCATION FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>351 S HUDSON AVE RM 153</AddressLine1Txt>
+            <CityNm>PASADENA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>RONALD MCDONALD HOUSE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>763 S PASADENA AVE</AddressLine1Txt>
+            <CityNm>PASADENA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SANTA TERESITA SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2646 ZONAL AVENUE</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90033</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SR PATRICIA GEOGHEGAN CO HEALING HEARTS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>135 NORTH MISSION ROAD</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90033</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SUN VALLEY WRITERS' CONFERENCE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 957</AddressLine1Txt>
+            <CityNm>KETCHUM</CityNm>
+            <StateAbbreviationCd>ID</StateAbbreviationCd>
+            <ZIPCd>83340</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TALEGA LIFE CHURCH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1040 CALLE NEGOCIO</AddressLine1Txt>
+            <CityNm>SAN CLEMENTE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92673</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TERI CAMPUS OF LIFE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>251 AIRPORT ROAD</AddressLine1Txt>
+            <CityNm>OCEANSIDE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92058</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE BOYS AND GIRLS CLUB</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 3042</AddressLine1Txt>
+            <CityNm>SAN CLEMENTE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92674</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE DESI GEESTMAN FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2708 FOOTHILL BLVD</AddressLine1Txt>
+            <CityNm>LA CRESCENTA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91214</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE DORR INSTITUTE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1520 SAN PABLO ST 200</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90033</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE SYCAMORE (HATHWAY - SYCAMORES)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>210 SOUTH DELACEY AVE SU 110</AddressLine1Txt>
+            <CityNm>PASADENA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UC DAVIS REGENTS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>ONE SHIELDS AVENUE</AddressLine1Txt>
+            <CityNm>DAVIS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95616</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNION STATION HOMELESS SERVICES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>825 E ORANGE GROVE BLVD</AddressLine1Txt>
+            <CityNm>PASADENA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>VILLA D VIDA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>249 N LAKE STREET</AddressLine1Txt>
+            <CityNm>PASADENA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YMCA OF SOUTH PASADENA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1605 GARFIELD AVE</AddressLine1Txt>
+            <CityNm>SOUTH PASADENA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91030</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YMCA OF THE FOOTHILLS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1930 FOOTHILL BLVD</AddressLine1Txt>
+            <CityNm>LA CANADA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91011</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YWCA OF GLENDALE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>735 E LEXINGTON AVE</AddressLine1Txt>
+            <CityNm>GLENDALE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91206</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ACTIVITIES PURSUANT TO THE ENTITY'S MISSION STATEMENT.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>185000</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>03</ExclusionCd>
+          <ExclusionAmt>567</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>03</ExclusionCd>
+          <ExclusionAmt>14729</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <OtherInvestmentIncmPartVIIGrp>
+          <ExclusionCd>03</ExclusionCd>
+          <ExclusionAmt>174434</ExclusionAmt>
+        </OtherInvestmentIncmPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>03</ExclusionCd>
+          <ExclusionAmt>-166930</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>22800</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>22800</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX CONSULTING</CategoryTxt>
+        <Amt>1100</Amt>
+        <NetInvestmentIncomeAmt>1100</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1100</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING</CategoryTxt>
+        <Amt>12000</Amt>
+        <NetInvestmentIncomeAmt>12000</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>12000</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>STOCKS TD AMERITRADE</StockNm>
+        <EOYBookValueAmt>481488</EOYBookValueAmt>
+        <EOYFMVAmt>482383</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFeesGrp>
+        <CategoryTxt>LEGAL FEES</CategoryTxt>
+        <LegalFeesAmt>250</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>250</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>250</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>ILLINOIS REPORT FEE</Desc>
+        <RevenueAndExpensesPerBooksAmt>25</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>25</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>25</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncomeDetail>
+        <Desc>INTEREST ON LOANS</Desc>
+        <RevenueAndExpensesPerBooksAmt>174434</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>174434</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>174434</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilitiesDetail>
+        <Desc>OVERDRAFT</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>65744</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>MANAGEMENT FEE</CategoryTxt>
+        <Amt>50400</Amt>
+        <NetInvestmentIncomeAmt>50400</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>50400</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>COLLECTION EXPENSE</CategoryTxt>
+        <Amt>3791</Amt>
+        <NetInvestmentIncomeAmt>3791</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>3791</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>ADMIN CONSULTING</CategoryTxt>
+        <Amt>16000</Amt>
+        <NetInvestmentIncomeAmt>16000</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>16000</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX</CategoryTxt>
+        <Amt>27</Amt>
+        <NetInvestmentIncomeAmt>27</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>27</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

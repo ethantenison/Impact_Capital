@@ -1,0 +1,732 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2017v2.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2018-03-30T10:56:29-04:00</ReturnTs>
+    <TaxPeriodEndDt>2017-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>200436877</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>STEFFORIA PETIK &amp; ASSOCIATES PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2178 S STATE ST STE D</AddressLine1Txt>
+        <CityNm>ANN ARBOR</CityNm>
+        <StateAbbreviationCd>MI</StateAbbreviationCd>
+        <ZIPCd>481048107</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>261924834</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE CHANG FAMILY FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>CHAN</BusinessNameControlTxt>
+      <PhoneNum>7349969200</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>77 ENTERPRISE DRIVE</AddressLine1Txt>
+        <CityNm>ANN ARBOR</CityNm>
+        <StateAbbreviationCd>MI</StateAbbreviationCd>
+        <ZIPCd>48103</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>SHARON CHANG</PersonNm>
+      <PersonTitleTxt>DIRECTOR</PersonTitleTxt>
+      <PhoneNum>7349969200</PhoneNum>
+      <SignatureDt>2018-03-15</SignatureDt>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>TIMOTHY PETIK</PreparerPersonNm>
+      <PTIN>P00037527</PTIN>
+      <PhoneNum>7347478863</PhoneNum>
+      <PreparationDt>2018-03-15</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>64.50.255.210</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2018-03-30</IPDt>
+      <IPTm>09:56:29</IPTm>
+      <IPTimezoneCd>CD</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>52BC39F130FAEC241EB253B4CAE95468A49EBE9C</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>D53E3BFB7078B9C654507BAF0219E1FAB5650592</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2018-06-14 16:35:46Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="3">
+    <IRS990PF documentId="RetDoc4">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>0</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>175169</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>14748</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>14748</InterestOnSavNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc1">20385</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>158506</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>7345</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>210302</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>22093</TotalNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>0</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>66250</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>66250</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>66250</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>66250</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>144052</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>22093</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>460915</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>531962</SavAndTempCashInvstEOYAmt>
+        <AcctRcvblAmt>50000</AcctRcvblAmt>
+        <AcctRcvblBOYAmt>40000</AcctRcvblBOYAmt>
+        <AcctRcvblEOYAmt>50000</AcctRcvblEOYAmt>
+        <CorporateStockBOYAmt>519078</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2">582083</CorporateStockEOYAmt>
+        <TotalAssetsBOYAmt>1019993</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1164045</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>0</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>1019993</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>1164045</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1019993</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1164045</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1019993</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1164045</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1019993</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>144052</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>1164045</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1164045</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapitalGainNetIncomeAmt>7345</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>49700</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>862060</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.057653</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>32123</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>442386</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.072613</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>35940</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>542164</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.066290</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>33475</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>503727</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.066455</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>43743</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>429090</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.101944</DistributionYr5Rt>
+        <TotalDistributionRt>0.364955</TotalDistributionRt>
+        <AverageDistributionRt>0.072991</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>1009907</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>73714</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>221</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>73935</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>66250</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>442</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>442</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>442</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>442</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>MI</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>BYUNG J CHANG</IndividualWithBooksNm>
+        <PhoneNum>7349969200</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>77 ENTERPRISE DRIVE</AddressLine1Txt>
+          <CityNm>ANN ARBOR</CityNm>
+          <StateAbbreviationCd>MI</StateAbbreviationCd>
+          <ZIPCd>48103</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BYUNG JIN CHANG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>77 ENTERPRISE DRIVE</AddressLine1Txt>
+            <CityNm>ANN ARBOR</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48104</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SHARON CHANG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>77 ENTERPRISE DRIVE</AddressLine1Txt>
+            <CityNm>ANN ARBOR</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48104</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>559652</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>465634</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1025286</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1025286</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>15379</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1009907</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>50495</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>50495</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>442</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>442</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>50053</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>50053</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>50053</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>66250</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>66250</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>66250</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>50053</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>22302</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>8299</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>8848</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>10012</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>7274</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>56735</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>66250</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>50053</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>16197</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>72932</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>22302</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>50630</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>8299</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>8848</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>10012</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>7274</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>16197</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>SHARON CHANG</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>77 ENTERPRISE DRIVE</AddressLine1Txt>
+            <CityNm>ANN ARBOR</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>7349969200</RecipientPhoneNum>
+          <RecipientEmailAddressTxt>SCHANG@SURIGITEL.COM</RecipientEmailAddressTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ALZHEIMERS DISEASE RESEARCH</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>22512 GATEWAY CENTER DR</AddressLine1Txt>
+            <AddressLine2Txt>22512 GATEWAY CENTER DR</AddressLine2Txt>
+            <CityNm>CLARKSBURG</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>20871</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AMERICAN BIBLE SOCIETY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>101 N INDEPENDENCE MALL E</AddressLine1Txt>
+            <AddressLine2Txt>FL8</AddressLine2Txt>
+            <CityNm>PHILADELPHIA</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>MINSTRY</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AMERICAN RED CROSS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2025 E ST NW</AddressLine1Txt>
+            <AddressLine2Txt>2025 E ST NW</AddressLine2Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>DISASTER RELIEF</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BACK TO THE BIBLE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 82808</AddressLine1Txt>
+            <AddressLine2Txt>PO BOX 82808</AddressLine2Txt>
+            <CityNm>LINCOLN</CityNm>
+            <StateAbbreviationCd>NE</StateAbbreviationCd>
+            <ZIPCd>68501</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CHURCH RADIO</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BILLY GRAHAM</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 BILLY GRAHAM PKWY</AddressLine1Txt>
+            <AddressLine2Txt>1 BILLY GRAHAM PKWY</AddressLine2Txt>
+            <CityNm>CHARLOTTE</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>28201</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>MINISTRY</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DRS WITHOUT BORDERS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>333 7TH AVENUE</AddressLine1Txt>
+            <AddressLine2Txt>333 7TH AVENUE</AddressLine2Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>MEDICAL AID PROVIDER WORDWIDE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>FOCUS ON FAMILY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8605 EXPLORER DRIVE</AddressLine1Txt>
+            <AddressLine2Txt>8605 EXPLORER DRIVE</AddressLine2Txt>
+            <CityNm>COLORADO SPRINGS</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80920</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>FAMILY RELATIONSHIP BUILDING</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>FRANCIS PARKER SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6501 LINDA VISTA</AddressLine1Txt>
+            <AddressLine2Txt>6501 LINDA VISTA</AddressLine2Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92111</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>IN TOUCH MINISTRIES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 7900</AddressLine1Txt>
+            <AddressLine2Txt>PO BOX 7900</AddressLine2Txt>
+            <CityNm>ATLANTA</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30357</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>MINISTRY</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>INTERNATIONAL STUDENTS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX C</AddressLine1Txt>
+            <AddressLine2Txt>PO BOX C</AddressLine2Txt>
+            <CityNm>COLORADO SPRINGS</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80901</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>MINISTRY</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>INTL FOUNDATION EWHA WOMANS UNIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>475 RIVERSIDE DR</AddressLine1Txt>
+            <AddressLine2Txt>RM 1505</AddressLine2Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10115</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KINGS SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>19303 FREMONT AVE NORTH</AddressLine1Txt>
+            <AddressLine2Txt>19303 FREMONT AVE NORTH</AddressLine2Txt>
+            <CityNm>SHORELINE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98133</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KOREAN CHURCH</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3301 CREEK DR</AddressLine1Txt>
+            <AddressLine2Txt>3301 CREEK DR</AddressLine2Txt>
+            <CityNm>ANN ARBOR</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>MINISTRY</GrantOrContributionPurposeTxt>
+          <Amt>21000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MOODY GLOBAL MINISTRIES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>820 N LASALLE</AddressLine1Txt>
+            <AddressLine2Txt>820 N LASALLE</AddressLine2Txt>
+            <CityNm>CHICAGO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60610</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>MINISTRY</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NATIONAL MULTIPLE SCLEROSIS SOCIETY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>21311 CIVIC CENTER DRIVE</AddressLine1Txt>
+            <AddressLine2Txt>21311 CIVIC CENTER DRIVE</AddressLine2Txt>
+            <CityNm>SOUTHFIELD</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48076</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>1750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ONE DAYS WAGES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 18071</AddressLine1Txt>
+            <AddressLine2Txt>PO BOX 18071</AddressLine2Txt>
+            <CityNm>SEATTLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98118</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>POVERTY</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PARALYZED VETERANS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>40550 GRAND RIVER</AddressLine1Txt>
+            <AddressLine2Txt>40550 GRAND RIVER</AddressLine2Txt>
+            <CityNm>NOVI</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48375</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>VETERANS</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PRISON FELLOWSHIP</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>44180 RIVERSIDE PARKWAY</AddressLine1Txt>
+            <AddressLine2Txt>44180 RIVERSIDE PARKWAY</AddressLine2Txt>
+            <CityNm>LANDSDOWNE</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>20176</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>MINISTRY</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ROTARY ANN ARBOR</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 131217</AddressLine1Txt>
+            <AddressLine2Txt>PO BOX 131217</AddressLine2Txt>
+            <CityNm>ANN ARBOR</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48113</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>COMMUNITY SERVICE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SOS COMMUNITY SERVICE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>101 S HURON</AddressLine1Txt>
+            <AddressLine2Txt>101 S HURON</AddressLine2Txt>
+            <CityNm>YPSILANTI</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48197</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>COMMUNITY</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE NAVIGATORS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 6000</AddressLine1Txt>
+            <AddressLine2Txt>PO BOX 6000</AddressLine2Txt>
+            <CityNm>COLORADO SPRINGS</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80934</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>MINISTRY</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNIV OF MICHIGAN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3003 SOUTH STATE STREET</AddressLine1Txt>
+            <AddressLine2Txt>SUITE 8000</AddressLine2Txt>
+            <CityNm>ANN ARBOR</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>FOR THE MICHIGAN ENGINEEING FUND</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>URBAN IMPACT SEATTLE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7728 RAINIER AVE S</AddressLine1Txt>
+            <AddressLine2Txt>7728 RAINIER AVE S</AddressLine2Txt>
+            <CityNm>SEATTLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98118</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>COMMUNITY DEVELOPMENT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VETERANS OF FOREIGN WARS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>406 W 34TH STREET</AddressLine1Txt>
+            <AddressLine2Txt>406 W 34TH STREET</AddressLine2Txt>
+            <CityNm>KANSAS CITY</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>64111</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>GIVING</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WAYNE STATE UNIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5700 CASS AVE</AddressLine1Txt>
+            <AddressLine2Txt>STE 1200</AddressLine2Txt>
+            <CityNm>DETROIT</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48202</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WOUNDED WARRIOR PROJECT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 758516</AddressLine1Txt>
+            <AddressLine2Txt>PO BOX 758516</AddressLine2Txt>
+            <CityNm>TOPEKA</CityNm>
+            <StateAbbreviationCd>KS</StateAbbreviationCd>
+            <ZIPCd>66675</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>VETERANS</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WRCJ</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 CLOVER CT</AddressLine1Txt>
+            <AddressLine2Txt>1 CLOVER CT</AddressLine2Txt>
+            <CityNm>WIXOM</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48393</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MERCY SHIPS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2020</AddressLine1Txt>
+            <AddressLine2Txt>PO BOX 2020</AddressLine2Txt>
+            <CityNm>GARDEN VALLEY</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75771</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>MEDICAL</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ST JUDE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>262 DANNY THOMAS PLACE</AddressLine1Txt>
+            <AddressLine2Txt>262 DANNY THOMAS PLACE</AddressLine2Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CRU CAMPUS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 LAKE HEART DR</AddressLine1Txt>
+            <AddressLine2Txt>100 LAKE HEART DR</AddressLine2Txt>
+            <CityNm>ORLANDO</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32832</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>DONOR</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>MINISTRY</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>66250</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>14748</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>20385</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>35133</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>35133</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc1">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>BANK OF ANN ARBOR SEE ATTACHED</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>62435</GrossSalesPriceAmt>
+        <BasisAmt>57845</BasisAmt>
+        <TotalNetAmt>4590</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>BANK OF ANN ARBOR SEE ATTACHED</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>34257</GrossSalesPriceAmt>
+        <BasisAmt>31875</BasisAmt>
+        <TotalNetAmt>2382</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>BANK OF ANN ARBOR SEE ATTACHED</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>54469</GrossSalesPriceAmt>
+        <BasisAmt>48401</BasisAmt>
+        <TotalNetAmt>6068</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2">
+      <InvestmentsCorporateStockGrp>
+        <EOYBookValueAmt>582083</EOYBookValueAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2017v2.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2018-03-30T12:45:15-04:00</ReturnTs>
+    <TaxPeriodEndDt>2017-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>580979080</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>SMITH ADCOCK AND COMPANY CPA'S</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>400 HAWTHORNE LANE SUITE A</AddressLine1Txt>
+        <CityNm>ATHENS</CityNm>
+        <StateAbbreviationCd>GA</StateAbbreviationCd>
+        <ZIPCd>30606</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>461362567</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE MIDDLEBROOKS-CAMP FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>MIDD</BusinessNameControlTxt>
+      <PhoneNum>7062071522</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>145 FOX TRACE</AddressLine1Txt>
+        <CityNm>ATHENS</CityNm>
+        <StateAbbreviationCd>GA</StateAbbreviationCd>
+        <ZIPCd>30606</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>LACY CAMP</PersonNm>
+      <PersonTitleTxt>CEO</PersonTitleTxt>
+      <PhoneNum>7062071522</PhoneNum>
+      <SignatureDt>2018-03-17</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>RODNEY L CHANDLER</PreparerPersonNm>
+      <PTIN>P00284293</PTIN>
+      <PhoneNum>7063538600</PhoneNum>
+      <PreparationDt>2018-03-19</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>50.205.186.26</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2018-03-30</IPDt>
+      <IPTm>11:45:15</IPTm>
+      <IPTimezoneCd>CD</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>BF25BD80A0B8D7530CA2BFAFE16464ADAE7AD9F9</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>BF25BD80A0B8D7530CA2BFAFE16464ADAE7AD9F9</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2018-06-14 16:35:46Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="RetDoc5">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>248850</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>5122</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>5122</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc1">7136</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>40594</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>1855</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>12258</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>6977</TotalNetInvstIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc4">5133</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>8564</OtherProfFeesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>5133</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>8564</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>13100</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>13100</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>18233</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>8564</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>13100</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-5975</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CorporateStockBOYAmt>247985</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2">236001</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>242841</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc3">6009</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>6009</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>247985</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>242010</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>248850</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>247985</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>242010</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>247985</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>242010</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>247985</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>242010</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>247985</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-5975</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>242010</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>242010</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapitalGainNetIncomeAmt>1855</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>14000</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>232580</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.060194</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>6550</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>249144</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.026290</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>7500</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>257056</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.029177</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>8850</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>244171</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.036245</DistributionYr4Rt>
+        <TotalDistributionRt>0.151906</TotalDistributionRt>
+        <AverageDistributionRt>0.037977</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>241954</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>9189</AdjNetVlNoncharitableAssetsAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>9189</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>13100</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>GA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>LACY CAMP</IndividualWithBooksNm>
+        <PhoneNum>7062071522</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>145 FOX TRACE</AddressLine1Txt>
+          <CityNm>ATHENS</CityNm>
+          <StateAbbreviationCd>GA</StateAbbreviationCd>
+          <ZIPCd>30606</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LACY CAMP</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>145 FOX TRACE</AddressLine1Txt>
+            <CityNm>ATHENS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30606</ZIPCd>
+          </USAddress>
+          <TitleTxt>CEO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>TOM CAMP</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>145 FOX TRACE</AddressLine1Txt>
+            <CityNm>ATHENS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30606</ZIPCd>
+          </USAddress>
+          <TitleTxt>CFO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>THOMAS M CAMP</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>540 RIVERMONT ROAD</AddressLine1Txt>
+            <CityNm>ATHENS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30606</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CHARLES H CAMP</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>540 RIVERMONT ROAD</AddressLine1Txt>
+            <CityNm>ATHENS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30606</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>245639</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>245639</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>245639</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>3685</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>241954</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>12098</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>12098</MinimumInvestmentReturnAmt>
+        <DistributableBeforeAdjAmt>12098</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>12098</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>12098</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>13100</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>13100</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>13100</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>12098</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>9958</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>13100</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>9958</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>3142</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>8956</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>MIDDLEBROOKS CAMP FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>145 FOX TRACE</AddressLine1Txt>
+            <CityNm>ATHENS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30606</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>7062024551</RecipientPhoneNum>
+          <RecipientEmailAddressTxt>LACYMCAMP@GMAIL.COM</RecipientEmailAddressTxt>
+          <FormAndInfoAndMaterialsTxt>LETTER WITH REQUEST AND DESCRIPTION OF ACTIVITIES.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>ROLLING DEADLINES.</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>LESS THAN 20,000</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BOOKS FOR KEEPS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 49761</AddressLine1Txt>
+            <CityNm>ATHENS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30604</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>BOOKS FOR STUDENTS</GrantOrContributionPurposeTxt>
+          <Amt>600</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SAINT ANDREWS SEWANEE SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>290 QUINTARD ROAD</AddressLine1Txt>
+            <CityNm>SEWANEE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37375</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>STUDENTS ARTS &amp; ACADEMICS SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SAMARITAN CENTER FOR COUNCELLING</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>455 N LUMPKIN ST</AddressLine1Txt>
+            <CityNm>ATHENS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>LOW COST FAMILY COUNCELING</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SEWANEE CHILDREN'S CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>216 UNIVERSITY AVE</AddressLine1Txt>
+            <CityNm>SEWANEE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37375</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHILDREN'S ART &amp; MUSIC SUPPLIES</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UGA FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>394 S MILLEDGE AVE</AddressLine1Txt>
+            <CityNm>ATHENS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30602</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BLACK HISTORY MONTH</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>13100</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>5122</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>1855</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>5281</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>6977</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>5281</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>12258</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc1">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>EDWARD JONES 8426</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <GrossSalesPriceAmt>38739</GrossSalesPriceAmt>
+        <BasisAmt>33458</BasisAmt>
+        <TotalNetAmt>5281</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EDWARD JONES 426</StockNm>
+        <EOYBookValueAmt>236001</EOYBookValueAmt>
+        <EOYFMVAmt>242841</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc3">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CSV LIFE INSURANCE</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>6009</BookValueAmt>
+        <EOYFMVAmt>6009</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc4">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>EDWARD JONES</CategoryTxt>
+        <Amt>3356</Amt>
+        <NetInvestmentIncomeAmt>3356</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>COST OF LIFE INSURANCE</CategoryTxt>
+        <Amt>1777</Amt>
+        <NetInvestmentIncomeAmt>5208</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

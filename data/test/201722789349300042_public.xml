@@ -1,0 +1,561 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2016v3.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2017-10-05T15:38:11-04:00</ReturnTs>
+    <TaxPeriodEndDt>2017-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>264555225</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>STEVE WALLS &amp; ASSOC PLLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>11541 NUCKOLS RD STE A</AddressLine1Txt>
+        <CityNm>GLEN ALLEN</CityNm>
+        <StateAbbreviationCd>VA</StateAbbreviationCd>
+        <ZIPCd>23059</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990</ReturnTypeCd>
+    <TaxPeriodBeginDt>2016-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>541686050</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE FIREHOUSE THEATRE PROJECTINC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>FIRE</BusinessNameControlTxt>
+      <PhoneNum>8043552001</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1609 W BROAD STREET</AddressLine1Txt>
+        <CityNm>RICHMOND</CityNm>
+        <StateAbbreviationCd>VA</StateAbbreviationCd>
+        <ZIPCd>232202106</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>STEVE GAIDOS</PersonNm>
+      <PersonTitleTxt>TREASURER</PersonTitleTxt>
+      <PhoneNum>8043552001</PhoneNum>
+      <SignatureDt>2017-09-11</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>STEVEN P WALLS</PreparerPersonNm>
+      <PTIN>P00609162</PTIN>
+      <PhoneNum>8042700784</PhoneNum>
+      <PreparationDt>2017-09-11</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <AtSubmissionCreationDeviceId>7176F3543DE353E610C6E6BCA275D40EFB6929A7</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>1BF9AEDE300C14BD289B10BEB3AA516B1F853232</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2016</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990 documentId="RetDoc3" referenceDocumentId="RetDoc5">
+      <PrincipalOfficerNm>D NOAH CHEELY DOWNS</PrincipalOfficerNm>
+      <USAddress>
+        <AddressLine1Txt>1609 W BROAD STREET</AddressLine1Txt>
+        <CityNm>RICHMOND</CityNm>
+        <StateAbbreviationCd>VA</StateAbbreviationCd>
+        <ZIPCd>232202106</ZIPCd>
+      </USAddress>
+      <GrossReceiptsAmt>290241</GrossReceiptsAmt>
+      <GroupReturnForAffiliatesInd>false</GroupReturnForAffiliatesInd>
+      <Organization501c3Ind>X</Organization501c3Ind>
+      <WebsiteAddressTxt>WWW.FIREHOUSETHEATRE.ORG</WebsiteAddressTxt>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <FormationYr>1993</FormationYr>
+      <LegalDomicileStateCd>VA</LegalDomicileStateCd>
+      <ActivityOrMissionDesc>FIREHOUSE THEATRE PROJECT, INC. IS A THRIVING HUB OF CREATIVE ACTIVITY, AN ARTISTIC HOME, AND A CENTER FOR COMMUNITY ENGAGEMENT WHERE NEW WORK IS CREATED AND PERFORMED.</ActivityOrMissionDesc>
+      <VotingMembersGoverningBodyCnt>9</VotingMembersGoverningBodyCnt>
+      <VotingMembersIndependentCnt>9</VotingMembersIndependentCnt>
+      <TotalEmployeeCnt>7</TotalEmployeeCnt>
+      <TotalVolunteersCnt>135</TotalVolunteersCnt>
+      <TotalGrossUBIAmt>0</TotalGrossUBIAmt>
+      <PYContributionsGrantsAmt>234765</PYContributionsGrantsAmt>
+      <CYContributionsGrantsAmt>117680</CYContributionsGrantsAmt>
+      <PYProgramServiceRevenueAmt>137510</PYProgramServiceRevenueAmt>
+      <CYProgramServiceRevenueAmt>151913</CYProgramServiceRevenueAmt>
+      <PYInvestmentIncomeAmt>1195</PYInvestmentIncomeAmt>
+      <CYInvestmentIncomeAmt>1268</CYInvestmentIncomeAmt>
+      <PYOtherRevenueAmt>10773</PYOtherRevenueAmt>
+      <CYOtherRevenueAmt>19380</CYOtherRevenueAmt>
+      <PYTotalRevenueAmt>384243</PYTotalRevenueAmt>
+      <CYTotalRevenueAmt>290241</CYTotalRevenueAmt>
+      <CYGrantsAndSimilarPaidAmt>0</CYGrantsAndSimilarPaidAmt>
+      <CYBenefitsPaidToMembersAmt>0</CYBenefitsPaidToMembersAmt>
+      <PYSalariesCompEmpBnftPaidAmt>87468</PYSalariesCompEmpBnftPaidAmt>
+      <CYSalariesCompEmpBnftPaidAmt>93632</CYSalariesCompEmpBnftPaidAmt>
+      <CYTotalProfFndrsngExpnsAmt>0</CYTotalProfFndrsngExpnsAmt>
+      <CYTotalFundraisingExpenseAmt>3074</CYTotalFundraisingExpenseAmt>
+      <PYOtherExpensesAmt>208799</PYOtherExpensesAmt>
+      <CYOtherExpensesAmt>187428</CYOtherExpensesAmt>
+      <PYTotalExpensesAmt>296267</PYTotalExpensesAmt>
+      <CYTotalExpensesAmt>281060</CYTotalExpensesAmt>
+      <PYRevenuesLessExpensesAmt>87976</PYRevenuesLessExpensesAmt>
+      <CYRevenuesLessExpensesAmt>9181</CYRevenuesLessExpensesAmt>
+      <TotalAssetsBOYAmt>1159497</TotalAssetsBOYAmt>
+      <TotalAssetsEOYAmt>1170757</TotalAssetsEOYAmt>
+      <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+      <NetAssetsOrFundBalancesBOYAmt>1159497</NetAssetsOrFundBalancesBOYAmt>
+      <NetAssetsOrFundBalancesEOYAmt>1170757</NetAssetsOrFundBalancesEOYAmt>
+      <InfoInScheduleOPartIIIInd>X</InfoInScheduleOPartIIIInd>
+      <MissionDesc>FIREHOUSE THEATRE PROJECT, INC. IS A THRIVING HUB OF CREATIVE ACTIVITY, AN ARTISTIC HOME, AND A CENTER FOR COMMUNITY ENGAGEMENT WHERE NEW WORK IS CREATED AND PERFORMED.</MissionDesc>
+      <SignificantNewProgramSrvcInd>false</SignificantNewProgramSrvcInd>
+      <SignificantChangeInd>false</SignificantChangeInd>
+      <ExpenseAmt>261607</ExpenseAmt>
+      <RevenueAmt>151913</RevenueAmt>
+      <Desc>DURING THE FISCAL YEAR, THE ORGANIZATION HAD PROGRAMS IN THREE DIFFERENT SERIES - PLAYS, FRINGE AND STUDIO, AS FOLLOWS: 1. PLAYS - PLAYS OFFERED TO THE GENERAL PUBLIC INCLUDED: A. AMERICAN IDIOT - MUSIC BY GREEN DAY/LYRICS BY BILLIE JOE ARMSTRONG; BOOK BY BILLIE JOE ARMSTRONG AND MICHAEL MAYER. AMERICAN IDIOT REFLECTS BILLIE JOE ARMSTRONG'S EMBRACE OF AND RESPONSE TO THE ANXIETY OF OUR POST 9/11 AGE THAT HELPED MAKE THEIR MUSIC THE ANTHEM FOR A GENERATION. AMERICAN IDIOT WAS RECORDED AS A "PUNK ROCK OPERA- AND WON A GRAMMY IN 2005 BEFORE IT WAS ADAPTED INTO AN AWARD-WINNING BROADWAY MUSICAL IN 2009. TWENTY (20) PERFORMANCES. CONTINUED ON SCHEDULE O CONTINUED B. UBU 84- "UBU 84" IS A WORLD PREMIERE HYBRID MASH-UP FROM THE REVOLUTIONARY IMAGINATIONS OF ALFRED JARRY (UBI ROI) AND GEORGE ORWELL (1984). THE SOURCE MATERIAL IS A CAUTIONARY TALE ABOUT POLITICS, POWER AND CORRUPTION. THE TWO SOURCES ARE SEPARATED BY TONE AND BY 53 YEARS. DESPITE THEIR DIFFERENCES, THE TWO PIECES OFFER A SIMILAR MESSAGE: WHAT MAY AT FIRST SEEM LIKE A JOKE CAN BECOME SOMETHING QUITE SINISTER IF GIVEN THE OPPORTUNITY TO GROW, EXPAND AND GAIN CONTROL. SIXTEEN (16) PERFORMANCES. C. THE BOATWRIGHT - WRITTEN BY BO WILSON. "THE BOATWRIGHT" IS A POWERFULLY THEATRICAL STORY OF TWO DAMAGED MEN, GENERATIONS APART AND LONELY IN VERY DIFFERENT WAYS, WHO NAVIGATE THROUGH THE ISOLATION IN THEIR OWN LIVES BY THE LIGHT OF THE OTHER'S FAITH. "THE PLAY EXPRESSES A COMMON DESIRE TO SAIL AWAY TO A QUIETER PLACE". THIRTEEN (13)PERFORMANCES. 2. FRINGE - UNCONVENTIONAL, UNORTHODOX, ALTERNATIVE, AVANT-GARDE, EXPERIMENTAL, INNOVATIVE, NOT PART OF THE MAINSTREAM, ECLECTIC PERFORMANCES, POST-MODERN MADCAP MAYHEM AND OUTRAGEOUS ENTERTAINMENT. APPROXIMATELY ONE HUNDRED-FIFTY (150) PERFORMANCES. 3. STUDIO - AN INCUBATOR FOR NEW WORK WHERE ARTISTS AND MAKERS OF ALL KINDS CAN INVESTIGATE, EXPLORE, TEST AND EXERCISE THEIR CREATIVE IMAGINATIONS - RAW, TRANSPARENT AND UNKNOWN. TOTAL ATTENDANCE FOR ALL PERFORMANCES DURING FISCAL 2017 WAS 10,567. THE ORGANIZATION SEEKS TO EXPAND THE IDEA OF THEATER TO INCLUDE PERFORMANCE OF ALL KINDS AND HAS CREATED A THRIVING HUB OF CREATIVE ACTIVITY WHERE ARTISTS AND AUDIENCES CAN ENGAGE IN A DIVERSE ARRAY OF LIVE COLLECTIVE EXPERIENCES. THE ORGANIZATION REACHES INDIVIDUALS OF EVERY AGE AND INTEREST: IF IT'S NEW AND ALIVE, IT HAS A HOME AT THE FIREHOUSE THEATRE.</Desc>
+      <ProgSrvcAccomActy2Grp>
+        <Desc>TO ENCOURAGE AND SUPPORT RICHMOND'S ARTISTIC COMMUNITY, THE ORGANIZATION PROVIDED THEIR SPACE TO VARIOUS THEATRICAL AND ARTS GROUPS THROUGHOUT THE FISCAL YEAR FOR USE DURING NON-PRODUCTION PERIODS.</Desc>
+      </ProgSrvcAccomActy2Grp>
+      <TotalProgramServiceExpensesAmt>261607</TotalProgramServiceExpensesAmt>
+      <DescribedInSection501c3Ind referenceDocumentId="RetDoc6">true</DescribedInSection501c3Ind>
+      <ScheduleBRequiredInd referenceDocumentId="RetDoc1">true</ScheduleBRequiredInd>
+      <PoliticalCampaignActyInd>false</PoliticalCampaignActyInd>
+      <LobbyingActivitiesInd>false</LobbyingActivitiesInd>
+      <SubjectToProxyTaxInd>false</SubjectToProxyTaxInd>
+      <DonorAdvisedFundInd referenceDocumentId="RetDoc4">false</DonorAdvisedFundInd>
+      <ConservationEasementsInd referenceDocumentId="RetDoc4">false</ConservationEasementsInd>
+      <CollectionsOfArtInd referenceDocumentId="RetDoc4">false</CollectionsOfArtInd>
+      <CreditCounselingInd referenceDocumentId="RetDoc4">false</CreditCounselingInd>
+      <TempOrPermanentEndowmentsInd referenceDocumentId="RetDoc4">false</TempOrPermanentEndowmentsInd>
+      <ReportLandBuildingEquipmentInd referenceDocumentId="RetDoc4">true</ReportLandBuildingEquipmentInd>
+      <ReportInvestmentsOtherSecInd referenceDocumentId="RetDoc4">false</ReportInvestmentsOtherSecInd>
+      <ReportProgramRelatedInvstInd referenceDocumentId="RetDoc4">false</ReportProgramRelatedInvstInd>
+      <ReportOtherAssetsInd referenceDocumentId="RetDoc4">false</ReportOtherAssetsInd>
+      <ReportOtherLiabilitiesInd referenceDocumentId="RetDoc4">false</ReportOtherLiabilitiesInd>
+      <IncludeFIN48FootnoteInd referenceDocumentId="RetDoc4">false</IncludeFIN48FootnoteInd>
+      <IndependentAuditFinclStmtInd referenceDocumentId="RetDoc4">false</IndependentAuditFinclStmtInd>
+      <ConsolidatedAuditFinclStmtInd referenceDocumentId="RetDoc4">false</ConsolidatedAuditFinclStmtInd>
+      <SchoolOperatingInd>false</SchoolOperatingInd>
+      <ForeignOfficeInd>false</ForeignOfficeInd>
+      <ForeignActivitiesInd>false</ForeignActivitiesInd>
+      <MoreThan5000KToOrgInd>false</MoreThan5000KToOrgInd>
+      <MoreThan5000KToIndividualsInd>false</MoreThan5000KToIndividualsInd>
+      <ProfessionalFundraisingInd>false</ProfessionalFundraisingInd>
+      <FundraisingActivitiesInd>false</FundraisingActivitiesInd>
+      <GamingActivitiesInd>false</GamingActivitiesInd>
+      <OperateHospitalInd>false</OperateHospitalInd>
+      <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+      <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+      <ScheduleJRequiredInd>false</ScheduleJRequiredInd>
+      <TaxExemptBondsInd>false</TaxExemptBondsInd>
+      <EngagedInExcessBenefitTransInd>false</EngagedInExcessBenefitTransInd>
+      <PYExcessBenefitTransInd>false</PYExcessBenefitTransInd>
+      <LoanOutstandingInd>false</LoanOutstandingInd>
+      <GrantToRelatedPersonInd>false</GrantToRelatedPersonInd>
+      <BusinessRlnWithOrgMemInd>false</BusinessRlnWithOrgMemInd>
+      <BusinessRlnWithFamMemInd>false</BusinessRlnWithFamMemInd>
+      <BusinessRlnWithOfficerEntInd>false</BusinessRlnWithOfficerEntInd>
+      <DeductibleNonCashContriInd>false</DeductibleNonCashContriInd>
+      <DeductibleArtContributionInd>false</DeductibleArtContributionInd>
+      <TerminateOperationsInd>false</TerminateOperationsInd>
+      <PartialLiquidationInd>false</PartialLiquidationInd>
+      <DisregardedEntityInd>false</DisregardedEntityInd>
+      <RelatedEntityInd>false</RelatedEntityInd>
+      <RelatedOrganizationCtrlEntInd>false</RelatedOrganizationCtrlEntInd>
+      <TrnsfrExmptNonChrtblRltdOrgInd>false</TrnsfrExmptNonChrtblRltdOrgInd>
+      <ActivitiesConductedPrtshpInd>false</ActivitiesConductedPrtshpInd>
+      <ScheduleORequiredInd>true</ScheduleORequiredInd>
+      <IRPDocumentCnt>39</IRPDocumentCnt>
+      <IRPDocumentW2GCnt>0</IRPDocumentW2GCnt>
+      <EmployeeCnt>7</EmployeeCnt>
+      <EmploymentTaxReturnsFiledInd>true</EmploymentTaxReturnsFiledInd>
+      <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+      <ForeignFinancialAccountInd>false</ForeignFinancialAccountInd>
+      <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      <TaxablePartyNotificationInd>false</TaxablePartyNotificationInd>
+      <NondeductibleContributionsInd>false</NondeductibleContributionsInd>
+      <QuidProQuoContributionsInd>false</QuidProQuoContributionsInd>
+      <Form8282PropertyDisposedOfInd>false</Form8282PropertyDisposedOfInd>
+      <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+      <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+      <Form8899Filedind>false</Form8899Filedind>
+      <Form1098CFiledInd>false</Form1098CFiledInd>
+      <IndoorTanningServicesInd>false</IndoorTanningServicesInd>
+      <InfoInScheduleOPartVIInd>X</InfoInScheduleOPartVIInd>
+      <GoverningBodyVotingMembersCnt>9</GoverningBodyVotingMembersCnt>
+      <IndependentVotingMemberCnt>9</IndependentVotingMemberCnt>
+      <FamilyOrBusinessRlnInd>false</FamilyOrBusinessRlnInd>
+      <DelegationOfMgmtDutiesInd>false</DelegationOfMgmtDutiesInd>
+      <ChangeToOrgDocumentsInd>false</ChangeToOrgDocumentsInd>
+      <MaterialDiversionOrMisuseInd>false</MaterialDiversionOrMisuseInd>
+      <MembersOrStockholdersInd>false</MembersOrStockholdersInd>
+      <ElectionOfBoardMembersInd>false</ElectionOfBoardMembersInd>
+      <DecisionsSubjectToApprovaInd>false</DecisionsSubjectToApprovaInd>
+      <MinutesOfGoverningBodyInd>true</MinutesOfGoverningBodyInd>
+      <MinutesOfCommitteesInd>true</MinutesOfCommitteesInd>
+      <OfficerMailingAddressInd>false</OfficerMailingAddressInd>
+      <LocalChaptersInd>false</LocalChaptersInd>
+      <Form990ProvidedToGvrnBodyInd>true</Form990ProvidedToGvrnBodyInd>
+      <ConflictOfInterestPolicyInd>true</ConflictOfInterestPolicyInd>
+      <AnnualDisclosureCoveredPrsnInd>true</AnnualDisclosureCoveredPrsnInd>
+      <RegularMonitoringEnfrcInd>true</RegularMonitoringEnfrcInd>
+      <WhistleblowerPolicyInd>true</WhistleblowerPolicyInd>
+      <DocumentRetentionPolicyInd>true</DocumentRetentionPolicyInd>
+      <CompensationProcessCEOInd>false</CompensationProcessCEOInd>
+      <CompensationProcessOtherInd>false</CompensationProcessOtherInd>
+      <InvestmentInJointVentureInd>false</InvestmentInJointVentureInd>
+      <OtherWebsiteInd>X</OtherWebsiteInd>
+      <UponRequestInd>X</UponRequestInd>
+      <BooksInCareOfDetail>
+        <PersonNm>STEVE GAIDOS</PersonNm>
+        <PhoneNum>8043552001</PhoneNum>
+        <USAddress>
+          <AddressLine1Txt>1609 W BROAD ST</AddressLine1Txt>
+          <CityNm>RICHMOND</CityNm>
+          <StateAbbreviationCd>VA</StateAbbreviationCd>
+          <ZIPCd>23220</ZIPCd>
+        </USAddress>
+      </BooksInCareOfDetail>
+      <NoListedPersonsCompensatedInd>X</NoListedPersonsCompensatedInd>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>D NOAH CHEELY DOWNS</PersonNm>
+        <TitleTxt>PRESIDENT</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MARTHA SHOTWELL</PersonNm>
+        <TitleTxt>VICE PRES</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>D PRESLEY GARRETT</PersonNm>
+        <TitleTxt>SECRETARY</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>STEVE GAIDOS</PersonNm>
+        <TitleTxt>TREASURER</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>DONNA HEATH</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>HARVEY MCWILLIAMS</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>CHRISTINA MEASE</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>CHRISTOPHER M MOON</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MAJA E WHITE</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <FormerOfcrEmployeesListedInd>false</FormerOfcrEmployeesListedInd>
+      <TotalCompGreaterThan150KInd>false</TotalCompGreaterThan150KInd>
+      <CompensationFromOtherSrcsInd>false</CompensationFromOtherSrcsInd>
+      <GovernmentGrantsAmt>4609</GovernmentGrantsAmt>
+      <AllOtherContributionsAmt>113071</AllOtherContributionsAmt>
+      <TotalContributionsAmt>117680</TotalContributionsAmt>
+      <ProgramServiceRevenueGrp>
+        <Desc>PROGRAM SERVICE REVENUE</Desc>
+        <TotalRevenueColumnAmt>151913</TotalRevenueColumnAmt>
+        <ExclusionAmt>151913</ExclusionAmt>
+      </ProgramServiceRevenueGrp>
+      <TotalProgramServiceRevenueAmt>151913</TotalProgramServiceRevenueAmt>
+      <InvestmentIncomeGrp>
+        <TotalRevenueColumnAmt>1268</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>1268</RelatedOrExemptFuncIncomeAmt>
+      </InvestmentIncomeGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>INCIDENTAL SPACE RENTAL</Desc>
+        <TotalRevenueColumnAmt>18122</TotalRevenueColumnAmt>
+        <ExclusionAmt>18122</ExclusionAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>OTHER</Desc>
+        <TotalRevenueColumnAmt>1258</TotalRevenueColumnAmt>
+        <ExclusionAmt>1258</ExclusionAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueTotalAmt>19380</OtherRevenueTotalAmt>
+      <TotalRevenueGrp>
+        <TotalRevenueColumnAmt>290241</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>1268</RelatedOrExemptFuncIncomeAmt>
+        <ExclusionAmt>171293</ExclusionAmt>
+      </TotalRevenueGrp>
+      <OtherSalariesAndWagesGrp>
+        <TotalAmt>85670</TotalAmt>
+        <ProgramServicesAmt>79673</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>4284</ManagementAndGeneralAmt>
+        <FundraisingAmt>1713</FundraisingAmt>
+      </OtherSalariesAndWagesGrp>
+      <PayrollTaxesGrp>
+        <TotalAmt>7962</TotalAmt>
+        <ProgramServicesAmt>7405</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>398</ManagementAndGeneralAmt>
+        <FundraisingAmt>159</FundraisingAmt>
+      </PayrollTaxesGrp>
+      <FeesForServicesAccountingGrp>
+        <TotalAmt>3407</TotalAmt>
+        <ProgramServicesAmt>1703</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>1704</ManagementAndGeneralAmt>
+      </FeesForServicesAccountingGrp>
+      <AdvertisingGrp>
+        <TotalAmt>13658</TotalAmt>
+        <ProgramServicesAmt>13658</ProgramServicesAmt>
+      </AdvertisingGrp>
+      <InformationTechnologyGrp>
+        <TotalAmt>479</TotalAmt>
+        <ProgramServicesAmt>445</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>34</ManagementAndGeneralAmt>
+      </InformationTechnologyGrp>
+      <TravelGrp>
+        <TotalAmt>2993</TotalAmt>
+        <ProgramServicesAmt>2783</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>210</ManagementAndGeneralAmt>
+      </TravelGrp>
+      <DepreciationDepletionGrp>
+        <TotalAmt>21817</TotalAmt>
+        <ProgramServicesAmt>20508</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>1091</ManagementAndGeneralAmt>
+        <FundraisingAmt>218</FundraisingAmt>
+      </DepreciationDepletionGrp>
+      <InsuranceGrp>
+        <TotalAmt>7009</TotalAmt>
+        <ProgramServicesAmt>6518</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>491</ManagementAndGeneralAmt>
+      </InsuranceGrp>
+      <OtherExpensesGrp>
+        <Desc>PRODUCTION EXPENSES</Desc>
+        <TotalAmt>81054</TotalAmt>
+        <ProgramServicesAmt>81054</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>CONCESSIONS</Desc>
+        <TotalAmt>18996</TotalAmt>
+        <ProgramServicesAmt>18996</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>TAXES AND LICENSES</Desc>
+        <TotalAmt>10980</TotalAmt>
+        <ProgramServicesAmt>10980</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>BUILDING EXPENSES</Desc>
+        <TotalAmt>10132</TotalAmt>
+        <ProgramServicesAmt>9423</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>709</ManagementAndGeneralAmt>
+      </OtherExpensesGrp>
+      <AllOtherExpensesGrp>
+        <TotalAmt>16903</TotalAmt>
+        <ProgramServicesAmt>8461</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>7458</ManagementAndGeneralAmt>
+        <FundraisingAmt>984</FundraisingAmt>
+      </AllOtherExpensesGrp>
+      <TotalFunctionalExpensesGrp>
+        <TotalAmt>281060</TotalAmt>
+        <ProgramServicesAmt>261607</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>16379</ManagementAndGeneralAmt>
+        <FundraisingAmt>3074</FundraisingAmt>
+      </TotalFunctionalExpensesGrp>
+      <CashNonInterestBearingGrp>
+        <BOYAmt>434138</BOYAmt>
+        <EOYAmt>465110</EOYAmt>
+      </CashNonInterestBearingGrp>
+      <LandBldgEquipCostOrOtherBssAmt>857929</LandBldgEquipCostOrOtherBssAmt>
+      <LandBldgEquipAccumDeprecAmt>160868</LandBldgEquipAccumDeprecAmt>
+      <LandBldgEquipBasisNetGrp>
+        <BOYAmt>718876</BOYAmt>
+        <EOYAmt>697061</EOYAmt>
+      </LandBldgEquipBasisNetGrp>
+      <InvestmentsPubTradedSecGrp>
+        <BOYAmt>6483</BOYAmt>
+        <EOYAmt>8586</EOYAmt>
+      </InvestmentsPubTradedSecGrp>
+      <TotalAssetsGrp>
+        <BOYAmt>1159497</BOYAmt>
+        <EOYAmt>1170757</EOYAmt>
+      </TotalAssetsGrp>
+      <TotalLiabilitiesGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </TotalLiabilitiesGrp>
+      <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+      <RtnEarnEndowmentIncmOthFndsGrp>
+        <BOYAmt>1159497</BOYAmt>
+        <EOYAmt>1170757</EOYAmt>
+      </RtnEarnEndowmentIncmOthFndsGrp>
+      <TotalNetAssetsFundBalanceGrp>
+        <BOYAmt>1159497</BOYAmt>
+        <EOYAmt>1170757</EOYAmt>
+      </TotalNetAssetsFundBalanceGrp>
+      <TotLiabNetAssetsFundBalanceGrp>
+        <BOYAmt>1159497</BOYAmt>
+        <EOYAmt>1170757</EOYAmt>
+      </TotLiabNetAssetsFundBalanceGrp>
+      <ReconcilationRevenueExpnssAmt>9181</ReconcilationRevenueExpnssAmt>
+      <NetUnrlzdGainsLossesInvstAmt>2103</NetUnrlzdGainsLossesInvstAmt>
+      <PriorPeriodAdjustmentsAmt>-24</PriorPeriodAdjustmentsAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AccountantCompileOrReviewInd>false</AccountantCompileOrReviewInd>
+      <FSAuditedInd>false</FSAuditedInd>
+      <FederalGrantAuditRequiredInd>false</FederalGrantAuditRequiredInd>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc6">
+      <PublicOrganization170Ind>X</PublicOrganization170Ind>
+      <GiftsGrantsContriRcvd170Grp>
+        <CurrentTaxYearMinus4YearsAmt>176772</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>148837</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>175943</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>234765</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>117680</CurrentTaxYearAmt>
+        <TotalAmt>853997</TotalAmt>
+      </GiftsGrantsContriRcvd170Grp>
+      <TotalCalendarYear170Grp>
+        <CurrentTaxYearMinus4YearsAmt>176772</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>148837</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>175943</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>234765</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>117680</CurrentTaxYearAmt>
+        <TotalAmt>853997</TotalAmt>
+      </TotalCalendarYear170Grp>
+      <SubstantialContributorsTotAmt>264373</SubstantialContributorsTotAmt>
+      <PublicSupportTotal170Amt>589624</PublicSupportTotal170Amt>
+      <GrossInvestmentIncome170Grp>
+        <CurrentTaxYearMinus4YearsAmt>1</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>1</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>210</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>1195</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>1268</CurrentTaxYearAmt>
+        <TotalAmt>2675</TotalAmt>
+      </GrossInvestmentIncome170Grp>
+      <OtherIncome170Grp>
+        <CurrentTaxYearMinus4YearsAmt>3894</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>4121</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>3684</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>10030</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>18122</CurrentTaxYearAmt>
+        <TotalAmt>39851</TotalAmt>
+      </OtherIncome170Grp>
+      <TotalSupportAmt>896523</TotalSupportAmt>
+      <GrossReceiptsRltdActivitiesAmt>578696</GrossReceiptsRltdActivitiesAmt>
+      <PublicSupportCY170Pct>0.65770</PublicSupportCY170Pct>
+      <PublicSupportPY170Pct>0.64290</PublicSupportPY170Pct>
+      <ThirtyThrPctSuprtTestsCY170Ind>X</ThirtyThrPctSuprtTestsCY170Ind>
+      <Form990ScheduleAPartVIGrp>
+        <FormAndLineReferenceDesc>SUPPORTING SCHEDULE</FormAndLineReferenceDesc>
+        <ExplanationTxt>YEAR ENDED JUNE 30, 2014 22,725 YEAR ENDED JUNE 30, 2015 382,850 YEAR ENDED JUNE 30, 2016 2,500 YEAR ENDED JUNE 30, 2017 0</ExplanationTxt>
+      </Form990ScheduleAPartVIGrp>
+      <Form990ScheduleAPartVIGrp>
+        <FormAndLineReferenceDesc>PART II, LINE 10</FormAndLineReferenceDesc>
+        <ExplanationTxt>INCIDENTAL SPACE RENTAL 39,851</ExplanationTxt>
+      </Form990ScheduleAPartVIGrp>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <ContributorInformationGrp>
+        <ContributorNum>RESTRICTED</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>RESTRICTED</TotalContributionsAmt>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="RetDoc4">
+      <LandGrp>
+        <OtherCostOrOtherBasisAmt>373890</OtherCostOrOtherBasisAmt>
+        <BookValueAmt>373890</BookValueAmt>
+      </LandGrp>
+      <BuildingsGrp>
+        <OtherCostOrOtherBasisAmt>194401</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>47354</DepreciationAmt>
+        <BookValueAmt>147047</BookValueAmt>
+      </BuildingsGrp>
+      <LeaseholdImprovementsGrp>
+        <OtherCostOrOtherBasisAmt>274702</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>104168</DepreciationAmt>
+        <BookValueAmt>170534</BookValueAmt>
+      </LeaseholdImprovementsGrp>
+      <EquipmentGrp>
+        <OtherCostOrOtherBasisAmt>14936</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>9346</DepreciationAmt>
+        <BookValueAmt>5590</BookValueAmt>
+      </EquipmentGrp>
+      <TotalBookValueLandBuildingsAmt>697061</TotalBookValueLandBuildingsAmt>
+    </IRS990ScheduleD>
+    <IRS990ScheduleO documentId="RetDoc5">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PAGE 1, PART I, LINE 6</FormAndLineReferenceDesc>
+        <ExplanationTxt>VOLUNTEERS SERVE THE FIREHOUSE THEATRE PROJECT IN MANY DIFFERENT CAPACITIES. CREATING, BUILDING AND MANAGING THEATER SETS AND COSTUMES; HOSPITALITY SERVICE TO CAST AND CREW MEMBERS; AND SERVING ON THE BOARD OF DIRECTORS ARE ALL VOLUNTEER ACTIVITIES. DURING FISCAL 2017, APPROXIMATELY 135 VOLUNTEERS PROVIDED AN ESTIMATED 1,500 HOURS OF SERVICE TO THE ORGANIZATION.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PAGE 2, PART III, LINE 4A</FormAndLineReferenceDesc>
+        <ExplanationTxt>CONTINUED B. UBU 84- "UBU 84" IS A WORLD PREMIERE HYBRID MASH-UP FROM THE REVOLUTIONARY IMAGINATIONS OF ALFRED JARRY (UBI ROI) AND GEORGE ORWELL (1984). THE SOURCE MATERIAL IS A CAUTIONARY TALE ABOUT POLITICS, POWER AND CORRUPTION. THE TWO SOURCES ARE SEPARATED BY TONE AND BY 53 YEARS. DESPITE THEIR DIFFERENCES, THE TWO PIECES OFFER A SIMILAR MESSAGE: WHAT MAY AT FIRST SEEM LIKE A JOKE CAN BECOME SOMETHING QUITE SINISTER IF GIVEN THE OPPORTUNITY TO GROW, EXPAND AND GAIN CONTROL. SIXTEEN (16) PERFORMANCES. C. THE BOATWRIGHT - WRITTEN BY BO WILSON. "THE BOATWRIGHT" IS A POWERFULLY THEATRICAL STORY OF TWO DAMAGED MEN, GENERATIONS APART AND LONELY IN VERY DIFFERENT WAYS, WHO NAVIGATE THROUGH THE ISOLATION IN THEIR OWN LIVES BY THE LIGHT OF THE OTHER'S FAITH. "THE PLAY EXPRESSES A COMMON DESIRE TO SAIL AWAY TO A QUIETER PLACE". THIRTEEN (13)PERFORMANCES. 2. FRINGE - UNCONVENTIONAL, UNORTHODOX, ALTERNATIVE, AVANT-GARDE, EXPERIMENTAL, INNOVATIVE, NOT PART OF THE MAINSTREAM, ECLECTIC PERFORMANCES, POST-MODERN MADCAP MAYHEM AND OUTRAGEOUS ENTERTAINMENT. APPROXIMATELY ONE HUNDRED-FIFTY (150) PERFORMANCES. 3. STUDIO - AN INCUBATOR FOR NEW WORK WHERE ARTISTS AND MAKERS OF ALL KINDS CAN INVESTIGATE, EXPLORE, TEST AND EXERCISE THEIR CREATIVE IMAGINATIONS - RAW, TRANSPARENT AND UNKNOWN. TOTAL ATTENDANCE FOR ALL PERFORMANCES DURING FISCAL 2017 WAS 10,567. THE ORGANIZATION SEEKS TO EXPAND THE IDEA OF THEATER TO INCLUDE PERFORMANCE OF ALL KINDS AND HAS CREATED A THRIVING HUB OF CREATIVE ACTIVITY WHERE ARTISTS AND AUDIENCES CAN ENGAGE IN A DIVERSE ARRAY OF LIVE COLLECTIVE EXPERIENCES. THE ORGANIZATION REACHES INDIVIDUALS OF EVERY AGE AND INTEREST: IF IT'S NEW AND ALIVE, IT HAS A HOME AT THE FIREHOUSE THEATRE.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PAGE 6, PART VI, LINE 11B</FormAndLineReferenceDesc>
+        <ExplanationTxt>AN ELECTRONIC COPY OF THE RETURN WAS DISTRIBUTED TO THE ORGANIZATION'S BOARD OF DIRECTORS IN ADVANCE OF FILING WITH THE IRS. INPUT FOR CHANGES TO AND/OR CLARIFICATION OF ITEMS ON THE RETURN WAS SOLICITED AT THAT TIME.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PAGE 6, PART VI, LINE 12C</FormAndLineReferenceDesc>
+        <ExplanationTxt>EACH BOARD MEMBER IS GIVEN A CONFLICT OF INTEREST STATEMENT TO READ AND SIGN ANNUALLY.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PAGE 6, PART VI, LINE 19</FormAndLineReferenceDesc>
+        <ExplanationTxt>DOCUMENTS ARE AVAILABLE TO THE GENERAL PUBLIC VIA THE GUIDESTAR USA NON-PROFIT WEBSITE AT WWW.GUIDESTAR.ORG AND UPON REQUEST.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

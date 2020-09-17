@@ -1,0 +1,517 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2017v2.3">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2018-03-30T13:34:22-05:00</ReturnTs>
+    <TaxPeriodEndDt>2017-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>MIKESKA MONAHAN &amp; PECKHAM PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>100 CONGRESS AVENUE SUITE 990</AddressLine1Txt>
+        <CityNm>AUSTIN</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>78701</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>262252920</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>EQUINE CHAMPIONS FOR CHRIST INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% MARY JO GOERTZ</InCareOfNm>
+      <BusinessNameControlTxt>EQUI</BusinessNameControlTxt>
+      <PhoneNum>8778295500</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 592</AddressLine1Txt>
+        <CityNm>HAMILTON</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>76531</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>MARY JO GOERTZ</PersonNm>
+      <PersonTitleTxt>PRESIDENT/TREASURER</PersonTitleTxt>
+      <PhoneNum>8778295500</PhoneNum>
+      <SignatureDt>2018-03-31</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>KATHLEEN MONAHAN</PreparerPersonNm>
+      <PTIN>P00039626</PTIN>
+      <PhoneNum>5124761040</PhoneNum>
+      <PreparationDt>2018-03-25</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>97.77.193.242</IPv4AddressTxt>
+      </IPAddress>
+      <FederalOriginalSubmissionId>74225420180895000008</FederalOriginalSubmissionId>
+      <FederalOriginalSubmissionIdDt>2018-03-30</FederalOriginalSubmissionIdDt>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>4D02089EF7B66D87EB76FA52A14C52CA92DBC0DD</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>2DE4AD93CB82CC844C7EDFBDCA37F4543A78D92F</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2018-06-14 16:35:46Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>21515</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>81017</ContriRcvdRevAndExpnssAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSch2">885</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>81902</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>0</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSch">3375</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>0</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>3375</AccountingFeesChrtblPrpsAmt>
+        <OccupancyRevAndExpnssAmt>6160</OccupancyRevAndExpnssAmt>
+        <OccupancyDsbrsChrtblAmt>6160</OccupancyDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSch">103533</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>103535</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>113068</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>113070</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>0</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>113068</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>113070</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-31166</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>52681</CashBOYAmt>
+        <CashEOYAmt>21515</CashEOYAmt>
+        <CashEOYFMVAmt>21515</CashEOYFMVAmt>
+        <TotalAssetsBOYAmt>52681</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>21515</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>21515</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>52681</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>21515</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>52681</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>21515</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>52681</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>21515</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>52681</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-31166</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>21515</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>21515</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail />
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>154539</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>37206</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>4.153604</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>207750</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>109316</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>1.900454</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>70947</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>102188</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.694279</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>36476</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>77136</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.472879</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>57547</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>46893</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>1.227198</DistributionYr5Rt>
+        <TotalDistributionRt>8.448414</TotalDistributionRt>
+        <AverageDistributionRt>1.689683</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>24405</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>41237</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>0</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>41237</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>113070</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>0</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>0</TaxBasedOnInvestmentIncomeAmt>
+        <TotalPaymentsAndCreditsAmt>0</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>0</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>TX</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>true</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>EQUINECHAMPIONSFORCHRIST.COM</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>MARY JO GOERTZ</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>8778295500</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO BOX 592</AddressLine1Txt>
+          <CityNm>HAMILTON</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>76531</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARY JO GOERTZ</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 592</AddressLine1Txt>
+            <CityNm>HAMILTON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76531</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT/TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MICHAEL D GOERTZ</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 592</AddressLine1Txt>
+            <CityNm>HAMILTON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76531</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KENNETH WAYNE HAGUE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 592</AddressLine1Txt>
+            <CityNm>HAMILTON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76531</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>EQUINE CHAMPIONS FOR CHRIST OFFERS CHRISTIAN YOUTH RODEO CAMPS. RODEO CHAMPIONS WHO LIVE AND ENCOURAGE CHRISTIAN LIFESTYLES &amp; BELIEFS ARE INVITED TO COME AND WORK WITH KIDS.</Description1Txt>
+        <Expenses1Amt>113070</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp />
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>24777</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>24777</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>24777</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>372</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>24405</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>1220</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>113070</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>113070</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>0</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>113070</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2015</PriorYear1Yr>
+        <PriorYear2Yr>2014</PriorYear2Yr>
+        <PriorYear3Yr>2013</PriorYear3Yr>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <QualifyingDistributionsAmt>113070</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>0</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>0</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromCurrentYearAmt>0</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp>
+        <PrivateOperatingFndtnRulingDt>2008-06-17</PrivateOperatingFndtnRulingDt>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>1220</CurrentYearAmt>
+          <Year1Amt>1860</Year1Amt>
+          <Year2Amt>5466</Year2Amt>
+          <TotalAmt>8546</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <Pct85LessorAdjIncmOrMinRetGrp>
+          <CurrentYearAmt>1037</CurrentYearAmt>
+          <Year1Amt>1581</Year1Amt>
+          <Year2Amt>4646</Year2Amt>
+          <TotalAmt>7264</TotalAmt>
+        </Pct85LessorAdjIncmOrMinRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>113070</CurrentYearAmt>
+          <Year1Amt>154539</Year1Amt>
+          <Year2Amt>207750</Year2Amt>
+          <Year3Amt>70947</Year3Amt>
+          <TotalAmt>546306</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriNotUsedDrtGrp />
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>113070</CurrentYearAmt>
+          <Year1Amt>154539</Year1Amt>
+          <Year2Amt>207750</Year2Amt>
+          <Year3Amt>70947</Year3Amt>
+          <TotalAmt>546306</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TotalAssetsGrp>
+          <CurrentYearAmt>0</CurrentYearAmt>
+          <TotalAmt>0</TotalAmt>
+        </TotalAssetsGrp>
+        <TotalAssetsSect4942j3BiGrp>
+          <TotalAmt>0</TotalAmt>
+        </TotalAssetsSect4942j3BiGrp>
+        <TwoThirdsMinimumInvstRetGrp />
+        <TotalSupportGrp>
+          <CurrentYearAmt>81017</CurrentYearAmt>
+          <Year1Amt>132563</Year1Amt>
+          <Year2Amt>185650</Year2Amt>
+          <Year3Amt>67740</Year3Amt>
+          <TotalAmt>466970</TotalAmt>
+        </TotalSupportGrp>
+        <PublicSupportType>
+          <CurrentYearAmt>81017</CurrentYearAmt>
+          <Year1Amt>132563</Year1Amt>
+          <Year2Amt>185650</Year2Amt>
+          <Year3Amt>67740</Year3Amt>
+          <TotalAmt>466970</TotalAmt>
+        </PublicSupportType>
+        <LargestSupportFromEOGrp>
+          <TotalAmt>0</TotalAmt>
+        </LargestSupportFromEOGrp>
+        <GrossInvestmentIncomeGrp>
+          <TotalAmt>0</TotalAmt>
+        </GrossInvestmentIncomeGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>MARY JO GOERTZ</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp />
+        <DivAndIntFromSecPartVIIGrp />
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncmPartVIIGrp />
+        <GainSalesAstOthThanInvntryGrp />
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <OtherRevenueDescribedGrp>
+          <Desc>SALE OF PROMOTIONAL ITEMS</Desc>
+          <BusinessCd>452000</BusinessCd>
+          <RelatedOrExemptFunctionIncmAmt>885</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>885</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>885</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>SHERRY COWAN</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>13456 N HWY 87</AddressLine1Txt>
+          <CityNm>PAYSON</CityNm>
+          <StateAbbreviationCd>AZ</StateAbbreviationCd>
+          <ZIPCd>855413873</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>52900</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorPersonNm>MARY JO GOERTZ</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX 592</AddressLine1Txt>
+          <CityNm>HAMILTON</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>76531</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>22337</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>3</ContributorNum>
+        <ContributorPersonNm>REGISTER BROTHERS LLC</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>628 TYLER ROAD</AddressLine1Txt>
+          <CityNm>LOGANSPORT</CityNm>
+          <StateAbbreviationCd>LA</StateAbbreviationCd>
+          <ZIPCd>71049</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFeesDetail>
+        <CategoryTxt>PROFESSIONAL FEES</CategoryTxt>
+        <Amt>3375</Amt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>ADVERSTISING</Desc>
+        <RevenueAndExpensesPerBooksAmt>1395</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1397</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>82</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>82</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>EQUIPMENT RENTAL</Desc>
+        <RevenueAndExpensesPerBooksAmt>14939</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>14939</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>EVENT &amp; CAMP CATERING</Desc>
+        <RevenueAndExpensesPerBooksAmt>11329</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>11329</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>CAMP EVENTS &amp; ENTERTAINMENT</Desc>
+        <RevenueAndExpensesPerBooksAmt>8947</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>8947</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>2497</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>2497</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>RODEO &amp; LIVESTOCK LEASING</Desc>
+        <RevenueAndExpensesPerBooksAmt>3290</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>3290</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>POSTAGE &amp; SHIPPING</Desc>
+        <RevenueAndExpensesPerBooksAmt>94</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>94</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSTRUCTORS</Desc>
+        <RevenueAndExpensesPerBooksAmt>15000</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>15000</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MUSIC</Desc>
+        <RevenueAndExpensesPerBooksAmt>16226</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>16226</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PREACHERS</Desc>
+        <RevenueAndExpensesPerBooksAmt>12000</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>12000</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>WEBSITE</Desc>
+        <RevenueAndExpensesPerBooksAmt>2423</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>2423</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>T-SHIRTS, CROSSES &amp; MISC.</Desc>
+        <RevenueAndExpensesPerBooksAmt>6811</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>6811</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>LIVESTOCK PROFESSIONAL FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>8500</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>8500</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSch2">
+      <OtherIncomeDetail>
+        <Desc>SALE OF PROMOTIONAL ITEMS</Desc>
+        <RevenueAndExpensesPerBooksAmt>885</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+  </ReturnData>
+</Return>

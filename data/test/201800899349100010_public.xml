@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2016v3.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2018-03-30T11:03:22-07:00</ReturnTs>
+    <TaxPeriodEndDt>2017-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>SEMANCHIN &amp; WETTER LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>6245 SHERIDAN DR STE 102</AddressLine1Txt>
+        <CityNm>AMHERST</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>142214827</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2016-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>161546071</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE RIGHTEOUS BABE FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>RIGH</BusinessNameControlTxt>
+      <PhoneNum>2124140505</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1133 BROADWAY</AddressLine1Txt>
+        <CityNm>NEW YORK</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>10010</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>PETER CASPERSON</PersonNm>
+      <PersonTitleTxt>Vice President</PersonTitleTxt>
+      <SignatureDt>2018-03-30</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>BARBARA S ARNOLD CPA</PreparerPersonNm>
+      <PTIN>P00943465</PTIN>
+      <PhoneNum>7166337607</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2016</TaxYr>
+    <BuildTS>2018-03-14 21:41:22Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="2">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="16000303" softwareVersionNum="2016v3.0">
+      <AddressChangeInd>X</AddressChangeInd>
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>187</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>750</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <TotalRevAndExpnssAmt>750</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>0</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">620</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>62</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>558</AccountingFeesChrtblPrpsAmt>
+        <TotOprExpensesRevAndExpnssAmt>620</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>62</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>558</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>0</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>620</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>62</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>558</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>130</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>57</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>187</SavAndTempCashInvstEOYAmt>
+        <TotalAssetsBOYAmt>57</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>187</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>187</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>57</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>187</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>57</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>187</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>57</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>187</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>57</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>130</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>187</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>187</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>1649</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>346</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>4.76590</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>2486</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>499</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>4.98196</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>1071</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>275</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>3.89455</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>2735</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>286</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>9.56294</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>1031</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>174</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>5.92529</DistributionYr5Rt>
+        <TotalDistributionRt>29.130629</TotalDistributionRt>
+        <AverageDistributionRt>5.826126</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>105</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>612</AdjNetVlNoncharitableAssetsAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>612</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>558</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>false</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>false</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>NY</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>false</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>PETER CASPERSON</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>2124140505</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1133 BROADWAY SUITE 919</AddressLine1Txt>
+          <CityNm>NEW YORK</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10010</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ANI DIFRANCO</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1133 BROADWAY SUITE 919</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10010</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PETER CASPERSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1133 BROADWAY SUITE 919</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10010</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RICK KENNELL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1133 BROADWAY SUITE 919</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10010</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>107</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>107</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>107</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>2</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>105</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>5</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>5</MinimumInvestmentReturnAmt>
+        <DistributableBeforeAdjAmt>5</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>5</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>5</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>558</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>558</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>558</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>5</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>1022</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>2721</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>1057</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>2461</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>1632</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>8893</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>558</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>5</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>553</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>9446</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>1022</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>8424</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>2721</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>1057</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>2461</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>1632</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>553</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="16000303" softwareVersionNum="2016v3.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>SEMANCHIN &amp; WETTER, LLP</CategoryTxt>
+        <Amt>620</Amt>
+        <NetInvestmentIncomeAmt>62</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>558</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+  </ReturnData>
+</Return>
