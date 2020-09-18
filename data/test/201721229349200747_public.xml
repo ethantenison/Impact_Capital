@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2016v3.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2017-05-02T15:28:42-05:00</ReturnTs>
+    <TaxPeriodEndDt>2016-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>310787612</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>KENTNER SELLERS LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>801 FALLS CREEK DR</AddressLine1Txt>
+        <CityNm>VANDALIA</CityNm>
+        <StateAbbreviationCd>OH</StateAbbreviationCd>
+        <ZIPCd>45377</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990EZ</ReturnTypeCd>
+    <TaxPeriodBeginDt>2016-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>311256830</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>ASSOCIATION OF FUNDRAISING PROFESSIONALS</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>GREATER DAYTON REGION CHAPTER</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>ASSO</BusinessNameControlTxt>
+      <PhoneNum>9377894132</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>4300 WILSON BLVD NO 300 I</AddressLine1Txt>
+        <CityNm>ARLINGTON</CityNm>
+        <StateAbbreviationCd>VA</StateAbbreviationCd>
+        <ZIPCd>222034168</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>KEVIN HAYDE</PersonNm>
+      <PersonTitleTxt>TREASURER</PersonTitleTxt>
+      <PhoneNum>9377894132</PhoneNum>
+      <SignatureDt>2017-04-27</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>MARK SMITH</PreparerPersonNm>
+      <PTIN>P00369004</PTIN>
+      <PhoneNum>9378981376</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>24.106.75.66</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2017-04-27</IPDt>
+      <IPTm>16:04:17</IPTm>
+      <IPTimezoneCd>ED</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>570EC5B935ADA98764F844F0C86C7E4DBB82CA8A</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>570EC5B935ADA98764F844F0C86C7E4DBB82CA8A</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2016</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="4">
+    <IRS990EZ documentId="RetDoc1234200001" referenceDocumentId="RetDoc1051800001 RetDoc2278000001">
+      <GroupExemptionNum>3237</GroupExemptionNum>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+      <WebsiteAddressTxt>WWW.AFPDAYTON.ORG</WebsiteAddressTxt>
+      <Organization501c3Ind referenceDocumentId="RetDoc1039100001">X</Organization501c3Ind>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <GrossReceiptsAmt>70818</GrossReceiptsAmt>
+      <InfoInScheduleOPartIInd>X</InfoInScheduleOPartIInd>
+      <ContributionsGiftsGrantsEtcAmt>1077</ContributionsGiftsGrantsEtcAmt>
+      <ProgramServiceRevenueAmt>60398</ProgramServiceRevenueAmt>
+      <MembershipDuesAmt>4725</MembershipDuesAmt>
+      <InvestmentIncomeAmt>3697</InvestmentIncomeAmt>
+      <OtherRevenueTotalAmt>921</OtherRevenueTotalAmt>
+      <TotalRevenueAmt>70818</TotalRevenueAmt>
+      <OtherExpensesTotalAmt>84722</OtherExpensesTotalAmt>
+      <TotalExpensesAmt>84722</TotalExpensesAmt>
+      <ExcessOrDeficitForYearAmt>-13904</ExcessOrDeficitForYearAmt>
+      <NetAssetsOrFundBalancesBOYAmt>99516</NetAssetsOrFundBalancesBOYAmt>
+      <OtherChangesInNetAssetsAmt>0</OtherChangesInNetAssetsAmt>
+      <NetAssetsOrFundBalancesEOYAmt>85612</NetAssetsOrFundBalancesEOYAmt>
+      <CashSavingsAndInvestmentsGrp>
+        <BOYAmt>99516</BOYAmt>
+        <EOYAmt>85612</EOYAmt>
+      </CashSavingsAndInvestmentsGrp>
+      <Form990TotalAssetsGrp>
+        <BOYAmt>99516</BOYAmt>
+        <EOYAmt>85612</EOYAmt>
+      </Form990TotalAssetsGrp>
+      <SumOfTotalLiabilitiesGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </SumOfTotalLiabilitiesGrp>
+      <NetAssetsOrFundBalancesGrp>
+        <BOYAmt>99516</BOYAmt>
+        <EOYAmt>85612</EOYAmt>
+      </NetAssetsOrFundBalancesGrp>
+      <InfoInScheduleOPartIIIInd>X</InfoInScheduleOPartIIIInd>
+      <PrimaryExemptPurposeTxt>PROMOTION OF PHILANTHROPY AND VOLUNTEERISM THROUGH EDUCATIONAL ACTIVITIES.</PrimaryExemptPurposeTxt>
+      <ProgramSrvcAccomplishmentGrp>
+        <DescriptionProgramSrvcAccomTxt>MONTHLY 2 HOUR MEETINGS WITH EDUCATION PROGRAMS AND NETWORKING OPPORTUNITIES, IN-HOUSE AND OUTSIDE SPEAKERS. THIS PROGRAM SERVED OVER 360 ATTENDEES AT 10 MEETINGS IN 2016.</DescriptionProgramSrvcAccomTxt>
+        <GrantsAndAllocationsAmt>0</GrantsAndAllocationsAmt>
+        <ProgramServiceExpensesAmt>8517</ProgramServiceExpensesAmt>
+      </ProgramSrvcAccomplishmentGrp>
+      <ProgramSrvcAccomplishmentGrp>
+        <DescriptionProgramSrvcAccomTxt>NATIONAL PHILANTHROPY DAY - RECOGNITION OF COMMUNITY PHILANTHROPISTS. THIS PROGRAM RECOGNIZES INDIVIDUAL AND ORGANIZATIONS IN EIGHT CATEGORIES FOR THEIR COMMITMENT TO SUPPORTING PHILANTHROPY AND MAKING A DIFFERENCE IN GREATER DAYTON AND WAS ATTENDED BY MORE THAN 325 INDIVIDUALS ATTENDING IN 2016.</DescriptionProgramSrvcAccomTxt>
+        <GrantsAndAllocationsAmt>0</GrantsAndAllocationsAmt>
+        <ProgramServiceExpensesAmt>14935</ProgramServiceExpensesAmt>
+      </ProgramSrvcAccomplishmentGrp>
+      <ProgramSrvcAccomplishmentGrp>
+        <DescriptionProgramSrvcAccomTxt>AFP'S CFRE REVIEW COURSE IS A TWO-DAY, INTENSIVE PROGRAM THAT PROVIDES AN OVERVIEW OF SKILLS AND TECHNIQUES BASED ON FUNDRAISING EXPERIENCE OVER A FIVE-YEAR LEVEL. THE COURSE IS INTENDED FOR INTERMEDIATE-LEVEL FUNDRAISING PROFESSIONALS WHO WANT A QUICK AND COMPREHENSIVE OVERVIEW OF FUNDRAISING PRINCIPLES AT A STEP ABOVE THE FUNDAMENTAL LEVEL. THE CONTENT WAS ORGANIZED AROUND THE CFRE EXAM DOMAINS: CURRENT AND PROSPECTIVE DONOR RESEARCH, SECURING THE GIFT, RELATIONSHIP BUILDING, VOLUNTEER INVOLVEMENT, LEADERSHIP AND MANAGEMENT, ETHICS, ACCOUNTABILITY, AND PROFESSIONALISM. PARTICIPANTS ENGAGE IN FUNDRAISING PROBLEM-SOLVING WITH TOP-NOTCH PROFESSIONALS AND NETWORK WITH FUNDRAISING PEERS. OVER 85 PROFESSIONAL ATTENDED.</DescriptionProgramSrvcAccomTxt>
+        <GrantsAndAllocationsAmt>0</GrantsAndAllocationsAmt>
+        <ProgramServiceExpensesAmt>4326</ProgramServiceExpensesAmt>
+      </ProgramSrvcAccomplishmentGrp>
+      <TotalProgramServiceExpensesAmt>27778</TotalProgramServiceExpensesAmt>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>BETHANY DEINES</PersonNm>
+        <TitleTxt>PRESIDENT</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+        <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+        <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>DAVID SEYER</PersonNm>
+        <TitleTxt>PRESIDENT ELECT AND VICE PRESIDENT</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+        <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+        <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>KARLA GARRETT HARSHAW</PersonNm>
+        <TitleTxt>IMMEDIATE PAST PRESIDENT</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+        <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+        <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>STEPHANIE LLACUNA</PersonNm>
+        <TitleTxt>VICE PRESIDENT, MEMBERSHIP</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>1.50</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+        <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+        <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>LUKE DENNIS</PersonNm>
+        <TitleTxt>SECRETARY</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+        <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+        <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>MARY JEAN HENRY</PersonNm>
+        <TitleTxt>TREASURER</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+        <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+        <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>KEVIN HAYDE</PersonNm>
+        <TitleTxt>MEMBER AT LARGE</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+        <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+        <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>SHARON SMITH</PersonNm>
+        <TitleTxt>MEMBER AT LARGE</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+        <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+        <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <InfoInScheduleOPartVInd>X</InfoInScheduleOPartVInd>
+      <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+      <ChgMadeToOrgnzngDocNotRptInd>0</ChgMadeToOrgnzngDocNotRptInd>
+      <OrganizationHadUBIInd>0</OrganizationHadUBIInd>
+      <SubjectToProxyTaxInd>0</SubjectToProxyTaxInd>
+      <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+      <DirectIndirectPltclExpendAmt>0</DirectIndirectPltclExpendAmt>
+      <MadeLoansToFromOfficersInd>0</MadeLoansToFromOfficersInd>
+      <TaxImposedUnderIRC4911Amt>0</TaxImposedUnderIRC4911Amt>
+      <TaxImposedUnderIRC4912Amt>0</TaxImposedUnderIRC4912Amt>
+      <TaxImposedUnderIRC4955Amt>0</TaxImposedUnderIRC4955Amt>
+      <EngagedInExcessBenefitTransInd>0</EngagedInExcessBenefitTransInd>
+      <TaxImposedOnOrganizationMgrAmt>0</TaxImposedOnOrganizationMgrAmt>
+      <TaxReimbursedByOrganizationAmt>0</TaxReimbursedByOrganizationAmt>
+      <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      <StatesWhereCopyOfReturnIsFldCd>OH</StatesWhereCopyOfReturnIsFldCd>
+      <BooksInCareOfDetail>
+        <BusinessName>
+          <BusinessNameLine1Txt>KEVIN HAYDE</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 3515</AddressLine1Txt>
+          <CityNm>DAYTON</CityNm>
+          <StateAbbreviationCd>OH</StateAbbreviationCd>
+          <ZIPCd>454013515</ZIPCd>
+        </USAddress>
+        <PhoneNum>9372239939</PhoneNum>
+      </BooksInCareOfDetail>
+      <ForeignFinancialAccountInd>0</ForeignFinancialAccountInd>
+      <ForeignOfficeInd>0</ForeignOfficeInd>
+      <DonorAdvisedFndsInd>0</DonorAdvisedFndsInd>
+      <OperateHospitalInd>0</OperateHospitalInd>
+      <TanningServicesProvidedInd>0</TanningServicesProvidedInd>
+      <RelatedOrganizationCtrlEntInd>0</RelatedOrganizationCtrlEntInd>
+      <PoliticalCampaignActyInd>0</PoliticalCampaignActyInd>
+      <LobbyingActivitiesInd>0</LobbyingActivitiesInd>
+      <SchoolOperatingInd>0</SchoolOperatingInd>
+      <TrnsfrExmptNonChrtblRltdOrgInd>0</TrnsfrExmptNonChrtblRltdOrgInd>
+      <PartVIOfCompOfHghstPdEmplTxt>NONE</PartVIOfCompOfHghstPdEmplTxt>
+      <PartVIHghstPdCntrctProfSrvcTxt>NONE</PartVIHghstPdCntrctProfSrvcTxt>
+      <FiledScheduleAInd>1</FiledScheduleAInd>
+    </IRS990EZ>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PubliclySupportedOrg509a2Ind>X</PubliclySupportedOrg509a2Ind>
+      <GiftsGrantsContrisRcvd509Grp>
+        <CurrentTaxYearMinus4YearsAmt>3410</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>3950</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>5051</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>4595</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>5802</CurrentTaxYearAmt>
+        <TotalAmt>22808</TotalAmt>
+      </GiftsGrantsContrisRcvd509Grp>
+      <TaxRevLeviedOrgnztnlBnft509Grp>
+        <CurrentTaxYearMinus4YearsAmt>50276</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>46495</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>53112</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>54400</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>60398</CurrentTaxYearAmt>
+        <TotalAmt>264681</TotalAmt>
+      </TaxRevLeviedOrgnztnlBnft509Grp>
+      <Total509Grp>
+        <CurrentTaxYearMinus4YearsAmt>53686</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>50445</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>58163</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>58995</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>66200</CurrentTaxYearAmt>
+        <TotalAmt>287489</TotalAmt>
+      </Total509Grp>
+      <AmountsRcvdDsqlfyPersonGrp>
+        <TotalAmt>0</TotalAmt>
+      </AmountsRcvdDsqlfyPersonGrp>
+      <SubstantialContributorsAmtGrp>
+        <TotalAmt>0</TotalAmt>
+      </SubstantialContributorsAmtGrp>
+      <SubstAndDsqlfyPrsnsTotGrp>
+        <TotalAmt>0</TotalAmt>
+      </SubstAndDsqlfyPrsnsTotGrp>
+      <PublicSupportTotal509Amt>287489</PublicSupportTotal509Amt>
+      <GrossInvestmentIncome509Grp>
+        <CurrentTaxYearMinus4YearsAmt>23</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>707</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>2403</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>548</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>3697</CurrentTaxYearAmt>
+        <TotalAmt>7378</TotalAmt>
+      </GrossInvestmentIncome509Grp>
+      <InvestmentIncomeAndUBTIGrp>
+        <CurrentTaxYearMinus4YearsAmt>23</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>707</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>2403</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>548</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>3697</CurrentTaxYearAmt>
+        <TotalAmt>7378</TotalAmt>
+      </InvestmentIncomeAndUBTIGrp>
+      <OtherIncome509Grp>
+        <CurrentTaxYearMinus1YearAmt>894</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>921</CurrentTaxYearAmt>
+        <TotalAmt>1815</TotalAmt>
+      </OtherIncome509Grp>
+      <TotalSupportCalendarYearGrp>
+        <CurrentTaxYearMinus4YearsAmt>53709</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>51152</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>60566</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>60437</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>70818</CurrentTaxYearAmt>
+        <TotalAmt>296682</TotalAmt>
+      </TotalSupportCalendarYearGrp>
+      <PublicSupportCY509Pct>0.96900</PublicSupportCY509Pct>
+      <PublicSupportPY509Pct>0.98370</PublicSupportPY509Pct>
+      <InvestmentIncomeCYPct>0.02490</InvestmentIncomeCYPct>
+      <InvestmentIncomePYPct>0.01310</InvestmentIncomePYPct>
+      <ThirtyThrPctSuprtTestsCY509Ind>X</ThirtyThrPctSuprtTestsCY509Ind>
+    </IRS990ScheduleA>
+    <IRS990ScheduleO documentId="RetDoc1051800001">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990-EZ, PART I, LINE 4 - OTHER INVESTMENT INCOME</FormAndLineReferenceDesc>
+        <ExplanationTxt>DESCRIPTION: INVESTMENT INCOME (UNREALIZED GAIN). AMOUNT: 3,697.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990-EZ, PART I, LINE 8 - OTHER REVENUE</FormAndLineReferenceDesc>
+        <ExplanationTxt>DESCRIPTION: OTHER INCOME. AMOUNT: 921.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990-EZ, PART I, LINE 16 - OTHER EXPENSES</FormAndLineReferenceDesc>
+        <ExplanationTxt>DESCRIPTION: BANK FEES. AMOUNT: 2,081. DESCRIPTION: BOARD EXPENSES. AMOUNT: 8,032. DESCRIPTION: CONTRACT SERVICES AND FEES. AMOUNT: 15,139. DESCRIPTION: MARKETING AND WEBSITE. AMOUNT: 950. DESCRIPTION: OFFICE EXPENSE. AMOUNT: 371. DESCRIPTION: CFRE REVIEW COURSE FEES. AMOUNT: 4,326. DESCRIPTION: FUNDRAISING DAY. AMOUNT: 27,910. DESCRIPTION: MONTHLY MEETINGS. AMOUNT: 8,517. DESCRIPTION: NATIONAL PHILANTHROPY DAY. AMOUNT: 14,935. DESCRIPTION: MISCELLANEOUS. AMOUNT: 141. DESCRIPTION: SCHOLARSHIPS. AMOUNT: 2,270. DESCRIPTION: FILING FEES. AMOUNT: 50. TOTAL TO FORM 990-EZ, LINE 16: 84,722.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+    <TransferPrsnlBnftContractsDecl documentId="RetDoc2278000001">
+      <DeclarationDesc>THE ORGANIZATION DID NOT, DURING THE YEAR, RECEIVE ANY FUNDS, DIRECTLY,OR INDIRECTLY, TO PAY PREMIUMS ON A PERSONAL BENEFIT CONTRACT.THE ORGANIZATION, DID NOT, DURING THE YEAR, PAY ANY PREMIUMS, DIRECTLY,OR INDIRECTLY, ON A PERSONAL BENEFIT CONTRACT.</DeclarationDesc>
+    </TransferPrsnlBnftContractsDecl>
+  </ReturnData>
+</Return>

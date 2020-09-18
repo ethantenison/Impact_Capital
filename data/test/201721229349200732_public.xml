@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2016v3.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2017-05-02T11:13:08-07:00</ReturnTs>
+    <TaxPeriodEndDt>2016-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>STEPHEN D LIVINGSTON CPA PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>317 GREAT BRIDGE BLVD UNIT I</AddressLine1Txt>
+        <CityNm>CHESAPEAKE</CityNm>
+        <StateAbbreviationCd>VA</StateAbbreviationCd>
+        <ZIPCd>233207011</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990EZ</ReturnTypeCd>
+    <TaxPeriodBeginDt>2016-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>474352583</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>ROUTE 247 FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>ROUT</BusinessNameControlTxt>
+      <PhoneNum>7574609096</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>4640 SHORE DR</AddressLine1Txt>
+        <CityNm>VIRGINIA BEACH</CityNm>
+        <StateAbbreviationCd>VA</StateAbbreviationCd>
+        <ZIPCd>23455</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>MARIA JACOVIDES</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>7574609096</PhoneNum>
+      <SignatureDt>2017-05-02</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>STEPHEN D LIVINGSTON CPA</PreparerPersonNm>
+      <PhoneNum>7574360111</PhoneNum>
+      <PreparationDt>2017-05-02</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>72.214.51.220</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2017-05-02</IPDt>
+      <IPTm>11:12:57</IPTm>
+      <IPTimezoneCd>PD</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>4927A1C34824ECE71C6BAD6B11E65112D03FA6FA</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>4927A1C34824ECE71C6BAD6B11E65112D03FA6FA</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2016</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="4">
+    <IRS990EZ documentId="00000001" referenceDocumentName="IRS990ScheduleO ReasonableCauseExplanation TransfersPersonalBenefitsContractsDeclaration">
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <WebsiteAddressTxt>WWW.ROUTE247.ORG</WebsiteAddressTxt>
+      <Organization501c3Ind referenceDocumentId="00000002" referenceDocumentName="IRS990ScheduleA">X</Organization501c3Ind>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <GrossReceiptsAmt>24070</GrossReceiptsAmt>
+      <InfoInScheduleOPartIInd>X</InfoInScheduleOPartIInd>
+      <ContributionsGiftsGrantsEtcAmt>24070</ContributionsGiftsGrantsEtcAmt>
+      <ProgramServiceRevenueAmt>0</ProgramServiceRevenueAmt>
+      <MembershipDuesAmt>0</MembershipDuesAmt>
+      <InvestmentIncomeAmt>0</InvestmentIncomeAmt>
+      <CostOrOtherBasisExpenseSaleAmt>0</CostOrOtherBasisExpenseSaleAmt>
+      <GainOrLossFromSaleOfAssetsAmt>0</GainOrLossFromSaleOfAssetsAmt>
+      <GamingGrossIncomeAmt>0</GamingGrossIncomeAmt>
+      <FundraisingGrossIncomeAmt>0</FundraisingGrossIncomeAmt>
+      <SpecialEventsDirectExpensesAmt>0</SpecialEventsDirectExpensesAmt>
+      <SpecialEventsNetIncomeLossAmt>0</SpecialEventsNetIncomeLossAmt>
+      <CostOfGoodsSoldAmt>0</CostOfGoodsSoldAmt>
+      <GrossProfitLossSlsOfInvntryAmt>0</GrossProfitLossSlsOfInvntryAmt>
+      <TotalRevenueAmt>24070</TotalRevenueAmt>
+      <SalariesOtherCompEmplBnftAmt>41614</SalariesOtherCompEmplBnftAmt>
+      <FeesAndOtherPymtToIndCntrctAmt>2550</FeesAndOtherPymtToIndCntrctAmt>
+      <OtherExpensesTotalAmt>4581</OtherExpensesTotalAmt>
+      <TotalExpensesAmt>48745</TotalExpensesAmt>
+      <ExcessOrDeficitForYearAmt>-24675</ExcessOrDeficitForYearAmt>
+      <NetAssetsOrFundBalancesBOYAmt>32793</NetAssetsOrFundBalancesBOYAmt>
+      <NetAssetsOrFundBalancesEOYAmt>8118</NetAssetsOrFundBalancesEOYAmt>
+      <InfoInScheduleOPartIIInd>X</InfoInScheduleOPartIIInd>
+      <CashSavingsAndInvestmentsGrp>
+        <BOYAmt>35155</BOYAmt>
+        <EOYAmt>8202</EOYAmt>
+      </CashSavingsAndInvestmentsGrp>
+      <Form990TotalAssetsGrp>
+        <BOYAmt>35155</BOYAmt>
+        <EOYAmt>8202</EOYAmt>
+      </Form990TotalAssetsGrp>
+      <SumOfTotalLiabilitiesGrp>
+        <BOYAmt>2362</BOYAmt>
+        <EOYAmt>84</EOYAmt>
+      </SumOfTotalLiabilitiesGrp>
+      <NetAssetsOrFundBalancesGrp>
+        <BOYAmt>32793</BOYAmt>
+        <EOYAmt>8118</EOYAmt>
+      </NetAssetsOrFundBalancesGrp>
+      <PrimaryExemptPurposeTxt>EDUCATIONAL SUPPORT SERVICE THROUGH AN ONLINE "VIRTUAL VILLAGE" APPROACH TO CONNECT STUDENTS, PARENTS, AND SCHOOLS WHILE PROVIDING ONLINE TOOLS AND RESOURCES.</PrimaryExemptPurposeTxt>
+      <ProgramSrvcAccomplishmentGrp>
+        <DescriptionProgramSrvcAccomTxt>EDUCATIONAL SUPPORT SERVICES - WORK ON IMPLEMENTING THE ONLINE COMMUNITY "VIRTUAL VILLAGE" APPROACH WITH A TEST SCHOOL PARTICIPANT TO DEMOSTRATE HOW THE PROGRAM WORKS</DescriptionProgramSrvcAccomTxt>
+        <ProgramServiceExpensesAmt>48745</ProgramServiceExpensesAmt>
+      </ProgramSrvcAccomplishmentGrp>
+      <TotalProgramServiceExpensesAmt>48745</TotalProgramServiceExpensesAmt>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>MARIA JACOVIDES</PersonNm>
+        <TitleTxt>PRESIDENT</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>19275</CompensationAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>LISA WHITE</PersonNm>
+        <TitleTxt>VICE PRESIDENT</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>19275</CompensationAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+      <ChgMadeToOrgnzngDocNotRptInd>false</ChgMadeToOrgnzngDocNotRptInd>
+      <OrganizationHadUBIInd>false</OrganizationHadUBIInd>
+      <SubjectToProxyTaxInd referenceDocumentName="IRS990ScheduleC">false</SubjectToProxyTaxInd>
+      <OrganizationDissolvedEtcInd referenceDocumentName="IRS990ScheduleN BinaryAttachment">false</OrganizationDissolvedEtcInd>
+      <Form1120PolFiledInd>false</Form1120PolFiledInd>
+      <MadeLoansToFromOfficersInd>false</MadeLoansToFromOfficersInd>
+      <EngagedInExcessBenefitTransInd>false</EngagedInExcessBenefitTransInd>
+      <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      <BooksInCareOfDetail>
+        <PersonNm>MARIA JACOVIDES</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>4640 SHORE DR STE 113</AddressLine1Txt>
+          <CityNm>VIRGINIA BEACH</CityNm>
+          <StateAbbreviationCd>VA</StateAbbreviationCd>
+          <ZIPCd>23455</ZIPCd>
+        </USAddress>
+        <PhoneNum>7575170247</PhoneNum>
+      </BooksInCareOfDetail>
+      <ForeignFinancialAccountInd>false</ForeignFinancialAccountInd>
+      <ForeignOfficeInd>false</ForeignOfficeInd>
+      <DonorAdvisedFndsInd>false</DonorAdvisedFndsInd>
+      <OperateHospitalInd>false</OperateHospitalInd>
+      <TanningServicesProvidedInd>false</TanningServicesProvidedInd>
+      <RelatedOrganizationCtrlEntInd>false</RelatedOrganizationCtrlEntInd>
+      <TransactionWithControlEntInd>false</TransactionWithControlEntInd>
+      <PoliticalCampaignActyInd>false</PoliticalCampaignActyInd>
+      <LobbyingActivitiesInd>false</LobbyingActivitiesInd>
+      <SchoolOperatingInd>false</SchoolOperatingInd>
+      <TrnsfrExmptNonChrtblRltdOrgInd>false</TrnsfrExmptNonChrtblRltdOrgInd>
+      <PartVIOfCompOfHghstPdEmplTxt>NONE</PartVIOfCompOfHghstPdEmplTxt>
+      <PartVIHghstPdCntrctProfSrvcTxt>NONE</PartVIHghstPdCntrctProfSrvcTxt>
+    </IRS990EZ>
+    <IRS990ScheduleA documentId="00000002" softwareId="16000371">
+      <PubliclySupportedOrg509a2Ind>X</PubliclySupportedOrg509a2Ind>
+      <PublicSupportTotal170Amt>0</PublicSupportTotal170Amt>
+      <GrossInvestmentIncome170Grp>
+        <TotalAmt>0</TotalAmt>
+      </GrossInvestmentIncome170Grp>
+      <PublicSupportCY170Pct>0</PublicSupportCY170Pct>
+      <GiftsGrantsContrisRcvd509Grp>
+        <CurrentTaxYearMinus1YearAmt>83000</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>24070</CurrentTaxYearAmt>
+        <TotalAmt>107070</TotalAmt>
+      </GiftsGrantsContrisRcvd509Grp>
+      <Total509Grp>
+        <CurrentTaxYearMinus1YearAmt>83000</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>24070</CurrentTaxYearAmt>
+        <TotalAmt>107070</TotalAmt>
+      </Total509Grp>
+      <PublicSupportTotal509Amt>107070</PublicSupportTotal509Amt>
+      <TotalSupportCalendarYearGrp>
+        <TotalAmt>107070</TotalAmt>
+      </TotalSupportCalendarYearGrp>
+      <PublicSupportCY509Pct>1.00000</PublicSupportCY509Pct>
+      <PublicSupportPY509Pct>1.00000</PublicSupportPY509Pct>
+      <InvestmentIncomeCYPct>0</InvestmentIncomeCYPct>
+      <InvestmentIncomePYPct>0.00000</InvestmentIncomePYPct>
+      <ThirtyThrPctSuprtTestsCY509Ind>X</ThirtyThrPctSuprtTestsCY509Ind>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="00000003">
+      <ContributorInformationGrp>
+        <ContributorNum>RESTRICTED</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>RESTRICTED</TotalContributionsAmt>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <IRS990ScheduleO documentId="00000004" softwareId="16000371">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990EZ, Part I, Line 16</FormAndLineReferenceDesc>
+        <ExplanationTxt>BANK CHARGES 364.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990EZ, Part I, Line 16</FormAndLineReferenceDesc>
+        <ExplanationTxt>MEETINGS AND TRAVEL 377.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990EZ, Part I, Line 16</FormAndLineReferenceDesc>
+        <ExplanationTxt>LIABILITY INSURANCE 2890.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990EZ, Part I, Line 16</FormAndLineReferenceDesc>
+        <ExplanationTxt>TAXES AND LICENSES 225.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990EZ, Part I, Line 16</FormAndLineReferenceDesc>
+        <ExplanationTxt>WEBSITE AND ADVERTISING 725.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990EZ, Part II, Line 26</FormAndLineReferenceDesc>
+        <ExplanationTxt>PAYROLL TAXES PAYABLE 2362. 84.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

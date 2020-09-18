@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:sfsmef="http://www.cchsfs.com/efile/mef" returnVersion="2016v3.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2017-05-02T13:36:36-04:00</ReturnTs>
+    <TaxPeriodEndDt>2016-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>cathy shortledge</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>7 first st</AddressLine1Txt>
+        <CityNm>LOCK HAVEN</CityNm>
+        <StateAbbreviationCd>PA</StateAbbreviationCd>
+        <ZIPCd>17745</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990EZ</ReturnTypeCd>
+    <TaxPeriodBeginDt>2016-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>463490807</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>DR KEN AND GLENDA COX</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>ATHLETIC FOUNDATION</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>DRKE</BusinessNameControlTxt>
+      <PhoneNum>5706605100</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>2506 SUGAR RUN ROAD</AddressLine1Txt>
+        <CityNm>MILL HALL</CityNm>
+        <StateAbbreviationCd>PA</StateAbbreviationCd>
+        <ZIPCd>17751</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>KENNETH COOPER</PersonNm>
+      <PersonTitleTxt>TREASURER</PersonTitleTxt>
+      <SignatureDt>2017-04-05</SignatureDt>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>cathy shortledge</PreparerPersonNm>
+      <PTIN>P00941381</PTIN>
+      <PhoneNum>5707485308</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>173.163.71.41</IPv4AddressTxt>
+      </IPAddress>
+      <FederalOriginalSubmissionId>2501312017102g000165</FederalOriginalSubmissionId>
+      <FederalOriginalSubmissionIdDt>2017-04-12</FederalOriginalSubmissionIdDt>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>74CF8E6D8DE3BBCADA0B936F85AC5F1AAA71C4AF</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>74CF8E6D8DE3BBCADA0B936F85AC5F1AAA71C4AF</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2016</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="4">
+    <IRS990EZ documentId="2" softwareId="16000207" referenceDocumentId="3">
+      <InitialReturnInd>X</InitialReturnInd>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <Organization501c3Ind referenceDocumentId="1">X</Organization501c3Ind>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <GrossReceiptsAmt>10380</GrossReceiptsAmt>
+      <InfoInScheduleOPartIInd>X</InfoInScheduleOPartIInd>
+      <ContributionsGiftsGrantsEtcAmt>10380</ContributionsGiftsGrantsEtcAmt>
+      <TotalRevenueAmt>10380</TotalRevenueAmt>
+      <OtherExpensesTotalAmt>8274</OtherExpensesTotalAmt>
+      <TotalExpensesAmt>8274</TotalExpensesAmt>
+      <ExcessOrDeficitForYearAmt>2106</ExcessOrDeficitForYearAmt>
+      <NetAssetsOrFundBalancesBOYAmt>5083</NetAssetsOrFundBalancesBOYAmt>
+      <NetAssetsOrFundBalancesEOYAmt>7189</NetAssetsOrFundBalancesEOYAmt>
+      <InfoInScheduleOPartIIInd>X</InfoInScheduleOPartIIInd>
+      <CashSavingsAndInvestmentsGrp>
+        <BOYAmt>5083</BOYAmt>
+        <EOYAmt>15463</EOYAmt>
+      </CashSavingsAndInvestmentsGrp>
+      <Form990TotalAssetsGrp>
+        <BOYAmt>5083</BOYAmt>
+        <EOYAmt>15463</EOYAmt>
+      </Form990TotalAssetsGrp>
+      <SumOfTotalLiabilitiesGrp>
+        <EOYAmt>8274</EOYAmt>
+      </SumOfTotalLiabilitiesGrp>
+      <NetAssetsOrFundBalancesGrp>
+        <BOYAmt>5083</BOYAmt>
+        <EOYAmt>7189</EOYAmt>
+      </NetAssetsOrFundBalancesGrp>
+      <PrimaryExemptPurposeTxt>MEN AND WOMEN SPORTS PROGRAMS</PrimaryExemptPurposeTxt>
+      <ProgramSrvcAccomplishmentGrp>
+        <DescriptionProgramSrvcAccomTxt>DONATE TO STUDENT VARSITY AND CLUB SPORTS PROGRAMS DONATE MONEY TO YOUTH SPORTS</DescriptionProgramSrvcAccomTxt>
+        <GrantsAndAllocationsAmt>10380</GrantsAndAllocationsAmt>
+        <ProgramServiceExpensesAmt>8274</ProgramServiceExpensesAmt>
+      </ProgramSrvcAccomplishmentGrp>
+      <TotalProgramServiceExpensesAmt>8274</TotalProgramServiceExpensesAmt>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>CHRIS FOGG</PersonNm>
+        <TitleTxt>PRESIDENT</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>10</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>TONY PENECALE</PersonNm>
+        <TitleTxt>VICE PRESIDENT</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>10</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>WILLIAM LINGLE</PersonNm>
+        <TitleTxt>SECRETARY</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>10</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>KENNETH COOPER</PersonNm>
+        <TitleTxt>TREASURER</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>20</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+      <ChgMadeToOrgnzngDocNotRptInd>false</ChgMadeToOrgnzngDocNotRptInd>
+      <OrganizationHadUBIInd>false</OrganizationHadUBIInd>
+      <SubjectToProxyTaxInd>false</SubjectToProxyTaxInd>
+      <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+      <MadeLoansToFromOfficersInd>false</MadeLoansToFromOfficersInd>
+      <EngagedInExcessBenefitTransInd>false</EngagedInExcessBenefitTransInd>
+      <BooksInCareOfDetail>
+        <PersonNm>KENNETH COOPER</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>2506 SUGAR RUN ROAD</AddressLine1Txt>
+          <CityNm>MILL HALL</CityNm>
+          <StateAbbreviationCd>PA</StateAbbreviationCd>
+          <ZIPCd>17751</ZIPCd>
+        </USAddress>
+        <PhoneNum>5707487495</PhoneNum>
+      </BooksInCareOfDetail>
+      <DonorAdvisedFndsInd>false</DonorAdvisedFndsInd>
+      <OperateHospitalInd>false</OperateHospitalInd>
+      <TanningServicesProvidedInd>false</TanningServicesProvidedInd>
+      <RelatedOrganizationCtrlEntInd>false</RelatedOrganizationCtrlEntInd>
+      <TransactionWithControlEntInd>false</TransactionWithControlEntInd>
+      <PoliticalCampaignActyInd>false</PoliticalCampaignActyInd>
+      <LobbyingActivitiesInd>false</LobbyingActivitiesInd>
+      <SchoolOperatingInd>false</SchoolOperatingInd>
+      <TrnsfrExmptNonChrtblRltdOrgInd>false</TrnsfrExmptNonChrtblRltdOrgInd>
+      <PartVIOfCompOfHghstPdEmplTxt>NONE</PartVIOfCompOfHghstPdEmplTxt>
+      <PartVIHghstPdCntrctProfSrvcTxt>NONE</PartVIHghstPdCntrctProfSrvcTxt>
+      <FiledScheduleAInd>true</FiledScheduleAInd>
+    </IRS990EZ>
+    <IRS990ScheduleA documentId="1" softwareId="16000207">
+      <PublicOrganization170Ind>X</PublicOrganization170Ind>
+      <SupportSumAmt>0</SupportSumAmt>
+      <OtherSupportSumAmt>0</OtherSupportSumAmt>
+      <GiftsGrantsContriRcvd170Grp>
+        <CurrentTaxYearAmt>10380</CurrentTaxYearAmt>
+        <TotalAmt>10380</TotalAmt>
+      </GiftsGrantsContriRcvd170Grp>
+      <TotalCalendarYear170Grp>
+        <CurrentTaxYearAmt>10380</CurrentTaxYearAmt>
+        <TotalAmt>10380</TotalAmt>
+      </TotalCalendarYear170Grp>
+      <PublicSupportTotal170Amt>10380</PublicSupportTotal170Amt>
+      <TotalSupportAmt>10380</TotalSupportAmt>
+      <PublicSupportCY170Pct>1.00000</PublicSupportCY170Pct>
+      <PublicSupportPY170Pct>1.00000</PublicSupportPY170Pct>
+      <ThirtyThrPctSuprtTestsCY170Ind>X</ThirtyThrPctSuprtTestsCY170Ind>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="4" softwareId="16000207">
+      <ContributorInformationGrp>
+        <ContributorNum>RESTRICTED</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>RESTRICTED</TotalContributionsAmt>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <IRS990ScheduleO documentId="3" softwareId="16000207">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>EXPENSES</FormAndLineReferenceDesc>
+        <ExplanationTxt>TRAVEL MISC EMA FEES</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

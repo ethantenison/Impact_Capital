@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2016v3.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2017-05-02T11:34:28-07:00</ReturnTs>
+    <TaxPeriodEndDt>2016-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Ditmars Perazza &amp; Co LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>12 Oak Tree Court</AddressLine1Txt>
+        <CityNm>Westampton</CityNm>
+        <StateAbbreviationCd>NJ</StateAbbreviationCd>
+        <ZIPCd>08060</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990EZ</ReturnTypeCd>
+    <TaxPeriodBeginDt>2016-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>223527625</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>FESTIVAL COMMITTEE OF CHATSWORTH</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>FEST</BusinessNameControlTxt>
+      <PhoneNum>6097269237</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 286</AddressLine1Txt>
+        <CityNm>CHATSWORTH</CityNm>
+        <StateAbbreviationCd>NJ</StateAbbreviationCd>
+        <ZIPCd>08109</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Jen Hodder</PersonNm>
+      <PersonTitleTxt>Treasurer</PersonTitleTxt>
+      <SignatureDt>2017-05-02</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Kenneth M Ditmars</PreparerPersonNm>
+      <PTIN>P00059564</PTIN>
+      <PhoneNum>6092658698</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2016</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="4">
+    <IRS990EZ documentId="IRS990EZ" referenceDocumentId="IRS990ScheduleO TransfersPersonalBenefitsContr" softwareId="16000303" softwareVersionNum="2016v3.0">
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+      <WebsiteAddressTxt>www.cranfest.org</WebsiteAddressTxt>
+      <Organization501c3Ind referenceDocumentId="IRS990ScheduleA">X</Organization501c3Ind>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <GrossReceiptsAmt>73103</GrossReceiptsAmt>
+      <InfoInScheduleOPartIInd>X</InfoInScheduleOPartIInd>
+      <ContributionsGiftsGrantsEtcAmt>5210</ContributionsGiftsGrantsEtcAmt>
+      <InvestmentIncomeAmt>4079</InvestmentIncomeAmt>
+      <CostOrOtherBasisExpenseSaleAmt>0</CostOrOtherBasisExpenseSaleAmt>
+      <FundraisingGrossIncomeAmt referenceDocumentId="IRS990ScheduleG">63814</FundraisingGrossIncomeAmt>
+      <SpecialEventsDirectExpensesAmt>50455</SpecialEventsDirectExpensesAmt>
+      <SpecialEventsNetIncomeLossAmt>13359</SpecialEventsNetIncomeLossAmt>
+      <CostOfGoodsSoldAmt>0</CostOfGoodsSoldAmt>
+      <TotalRevenueAmt>22648</TotalRevenueAmt>
+      <FeesAndOtherPymtToIndCntrctAmt>5600</FeesAndOtherPymtToIndCntrctAmt>
+      <OccupancyRentUtltsAndMaintAmt>5281</OccupancyRentUtltsAndMaintAmt>
+      <OtherExpensesTotalAmt>12712</OtherExpensesTotalAmt>
+      <TotalExpensesAmt>23593</TotalExpensesAmt>
+      <ExcessOrDeficitForYearAmt>-945</ExcessOrDeficitForYearAmt>
+      <NetAssetsOrFundBalancesBOYAmt>133226</NetAssetsOrFundBalancesBOYAmt>
+      <NetAssetsOrFundBalancesEOYAmt>132281</NetAssetsOrFundBalancesEOYAmt>
+      <InfoInScheduleOPartIIInd>X</InfoInScheduleOPartIIInd>
+      <CashSavingsAndInvestmentsGrp>
+        <BOYAmt>127805</BOYAmt>
+        <EOYAmt>134044</EOYAmt>
+      </CashSavingsAndInvestmentsGrp>
+      <OtherAssetsTotalDetail>
+        <BOYAmt>6920</BOYAmt>
+      </OtherAssetsTotalDetail>
+      <Form990TotalAssetsGrp>
+        <BOYAmt>134725</BOYAmt>
+        <EOYAmt>134044</EOYAmt>
+      </Form990TotalAssetsGrp>
+      <SumOfTotalLiabilitiesGrp>
+        <BOYAmt>1499</BOYAmt>
+        <EOYAmt>1763</EOYAmt>
+      </SumOfTotalLiabilitiesGrp>
+      <NetAssetsOrFundBalancesGrp>
+        <BOYAmt>133226</BOYAmt>
+        <EOYAmt>132281</EOYAmt>
+      </NetAssetsOrFundBalancesGrp>
+      <PrimaryExemptPurposeTxt>The organizations mission is to maintain the historic "White Horse Inn" so that the residents of Chatsworth and Southern NJ can benefit from its history and existence.</PrimaryExemptPurposeTxt>
+      <ProgramSrvcAccomplishmentGrp>
+        <DescriptionProgramSrvcAccomTxt>The Organization's mission is to maintain the historic "White Horse Inn" so that the residents of Chatsworth and Southern NJ can benefit from its history and existence.</DescriptionProgramSrvcAccomTxt>
+        <GrantsAndAllocationsAmt>13667</GrantsAndAllocationsAmt>
+      </ProgramSrvcAccomplishmentGrp>
+      <TotalProgramServiceExpensesAmt>13667</TotalProgramServiceExpensesAmt>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>Jennifer Hodder</PersonNm>
+        <TitleTxt>Treasurer</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>Lynn Giamalis</PersonNm>
+        <TitleTxt>Chairperson</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>3.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>Stephanie Ettinger</PersonNm>
+        <TitleTxt>Secretary</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>Melissa Camiscioni</PersonNm>
+        <TitleTxt>Co Chair</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <InfoInScheduleOPartVInd>X</InfoInScheduleOPartVInd>
+      <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+      <ChgMadeToOrgnzngDocNotRptInd>false</ChgMadeToOrgnzngDocNotRptInd>
+      <OrganizationHadUBIInd>false</OrganizationHadUBIInd>
+      <OrganizationFiled990TInd>false</OrganizationFiled990TInd>
+      <SubjectToProxyTaxInd>false</SubjectToProxyTaxInd>
+      <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+      <Form1120PolFiledInd>false</Form1120PolFiledInd>
+      <MadeLoansToFromOfficersInd>false</MadeLoansToFromOfficersInd>
+      <InitiationFeesAndCapContriAmt>0</InitiationFeesAndCapContriAmt>
+      <GrossReceiptsForPublicUseAmt>0</GrossReceiptsForPublicUseAmt>
+      <EngagedInExcessBenefitTransInd>false</EngagedInExcessBenefitTransInd>
+      <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      <StatesWhereCopyOfReturnIsFldCd>NJ</StatesWhereCopyOfReturnIsFldCd>
+      <BooksInCareOfDetail>
+        <PersonNm>JENNIFER HODDER</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>300 Campus Drive Suite C</AddressLine1Txt>
+          <CityNm>Mt Holly</CityNm>
+          <StateAbbreviationCd>NJ</StateAbbreviationCd>
+          <ZIPCd>08060</ZIPCd>
+        </USAddress>
+        <PhoneNum>6092672880</PhoneNum>
+      </BooksInCareOfDetail>
+      <ForeignFinancialAccountInd>false</ForeignFinancialAccountInd>
+      <ForeignOfficeInd>false</ForeignOfficeInd>
+      <DonorAdvisedFndsInd>false</DonorAdvisedFndsInd>
+      <OperateHospitalInd>false</OperateHospitalInd>
+      <TanningServicesProvidedInd>false</TanningServicesProvidedInd>
+      <Form720FiledInd>false</Form720FiledInd>
+      <RelatedOrganizationCtrlEntInd>false</RelatedOrganizationCtrlEntInd>
+      <TransactionWithControlEntInd>false</TransactionWithControlEntInd>
+      <PoliticalCampaignActyInd>false</PoliticalCampaignActyInd>
+      <LobbyingActivitiesInd>false</LobbyingActivitiesInd>
+      <SchoolOperatingInd>false</SchoolOperatingInd>
+      <TrnsfrExmptNonChrtblRltdOrgInd>false</TrnsfrExmptNonChrtblRltdOrgInd>
+      <RelatedOrgSect527OrgInd>false</RelatedOrgSect527OrgInd>
+      <PartVIOfCompOfHghstPdEmplTxt>NONE</PartVIOfCompOfHghstPdEmplTxt>
+      <PartVIHghstPdCntrctProfSrvcTxt>NONE</PartVIHghstPdCntrctProfSrvcTxt>
+      <FiledScheduleAInd>true</FiledScheduleAInd>
+    </IRS990EZ>
+    <IRS990ScheduleA documentId="IRS990ScheduleA" softwareId="16000303" softwareVersionNum="2016v3.0">
+      <PubliclySupportedOrg509a2Ind>X</PubliclySupportedOrg509a2Ind>
+      <GiftsGrantsContrisRcvd509Grp>
+        <CurrentTaxYearMinus4YearsAmt>869</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>2800</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>60</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>4034</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>5210</CurrentTaxYearAmt>
+        <TotalAmt>12973</TotalAmt>
+      </GiftsGrantsContrisRcvd509Grp>
+      <GrossReceiptsAdmissionsGrp>
+        <CurrentTaxYearMinus4YearsAmt>75171</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>69814</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>69131</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>84360</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>63814</CurrentTaxYearAmt>
+        <TotalAmt>362290</TotalAmt>
+      </GrossReceiptsAdmissionsGrp>
+      <GrossReceiptsNonUnrltBusGrp>
+        <TotalAmt>0</TotalAmt>
+      </GrossReceiptsNonUnrltBusGrp>
+      <TaxRevLeviedOrgnztnlBnft509Grp>
+        <TotalAmt>0</TotalAmt>
+      </TaxRevLeviedOrgnztnlBnft509Grp>
+      <GovtFurnSrvcFcltsVl509Grp>
+        <TotalAmt>0</TotalAmt>
+      </GovtFurnSrvcFcltsVl509Grp>
+      <Total509Grp>
+        <CurrentTaxYearMinus4YearsAmt>76040</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>72614</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>69191</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>88394</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>69024</CurrentTaxYearAmt>
+        <TotalAmt>375263</TotalAmt>
+      </Total509Grp>
+      <AmountsRcvdDsqlfyPersonGrp>
+        <TotalAmt>0</TotalAmt>
+      </AmountsRcvdDsqlfyPersonGrp>
+      <SubstantialContributorsAmtGrp>
+        <TotalAmt>0</TotalAmt>
+      </SubstantialContributorsAmtGrp>
+      <PublicSupportTotal509Amt>375263</PublicSupportTotal509Amt>
+      <GrossInvestmentIncome509Grp>
+        <CurrentTaxYearMinus4YearsAmt>936</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>9634</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>6281</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>351</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>4079</CurrentTaxYearAmt>
+        <TotalAmt>21281</TotalAmt>
+      </GrossInvestmentIncome509Grp>
+      <Post1975UBTIGrp>
+        <TotalAmt>0</TotalAmt>
+      </Post1975UBTIGrp>
+      <InvestmentIncomeAndUBTIGrp>
+        <CurrentTaxYearMinus4YearsAmt>936</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>9634</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>6281</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>351</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>4079</CurrentTaxYearAmt>
+        <TotalAmt>21281</TotalAmt>
+      </InvestmentIncomeAndUBTIGrp>
+      <NetIncomeFromOtherUBIGrp>
+        <TotalAmt>0</TotalAmt>
+      </NetIncomeFromOtherUBIGrp>
+      <OtherIncome509Grp>
+        <TotalAmt>0</TotalAmt>
+      </OtherIncome509Grp>
+      <TotalSupportCalendarYearGrp>
+        <CurrentTaxYearMinus4YearsAmt>76976</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>82248</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>75472</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>88745</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>73103</CurrentTaxYearAmt>
+        <TotalAmt>396544</TotalAmt>
+      </TotalSupportCalendarYearGrp>
+      <PublicSupportCY509Pct>0.94630</PublicSupportCY509Pct>
+      <PublicSupportPY509Pct>0.95590</PublicSupportPY509Pct>
+      <InvestmentIncomeCYPct>0.05370</InvestmentIncomeCYPct>
+      <InvestmentIncomePYPct>0.04410</InvestmentIncomePYPct>
+      <ThirtyThrPctSuprtTestsCY509Ind>X</ThirtyThrPctSuprtTestsCY509Ind>
+    </IRS990ScheduleA>
+    <IRS990ScheduleG documentId="IRS990ScheduleG" softwareId="16000303" softwareVersionNum="2016v3.0">
+      <FundraisingEventInformationGrp>
+        <Event1Nm>Cranberry Festival</Event1Nm>
+        <GrossReceiptsEvent1Amt>63814</GrossReceiptsEvent1Amt>
+        <GrossRevenueEvent1Amt>63814</GrossRevenueEvent1Amt>
+        <EntertainmentEvent1Amt>2600</EntertainmentEvent1Amt>
+        <OtherDirectExpensesEvent1Amt>47855</OtherDirectExpensesEvent1Amt>
+        <GrossReceiptsTotalAmt>63814</GrossReceiptsTotalAmt>
+        <GrossRevenueTotalEventsAmt>63814</GrossRevenueTotalEventsAmt>
+        <EntertainmentTotalEventsAmt>2600</EntertainmentTotalEventsAmt>
+        <OthDirectExpnssTotalEventsAmt>47855</OthDirectExpnssTotalEventsAmt>
+        <DirectExpenseSummaryEventsAmt>50455</DirectExpenseSummaryEventsAmt>
+        <NetIncomeSummaryAmt>13359</NetIncomeSummaryAmt>
+      </FundraisingEventInformationGrp>
+    </IRS990ScheduleG>
+    <IRS990ScheduleO documentId="IRS990ScheduleO" softwareId="16000303" softwareVersionNum="2016v3.0">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Other Expenses.1</FormAndLineReferenceDesc>
+        <ExplanationTxt>Community Day $4586</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Other Expenses.2</FormAndLineReferenceDesc>
+        <ExplanationTxt>Building Expenses $3800</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Other Expenses.3</FormAndLineReferenceDesc>
+        <ExplanationTxt>Phone $2537</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Other Expenses.4</FormAndLineReferenceDesc>
+        <ExplanationTxt>Other $1717</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Other Expenses.5</FormAndLineReferenceDesc>
+        <ExplanationTxt>Bank charges $72</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Other Assets.1009</FormAndLineReferenceDesc>
+        <ExplanationTxt>Notes and Loans Receivable - Beginning $6920 Notes and Loans Receivable - Ending $0</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Total Liabilities.1001</FormAndLineReferenceDesc>
+        <ExplanationTxt>Accounts Payable and Accrued Expenses - Beginning $1499 Accounts Payable and Accrued Expenses - Ending $1763</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

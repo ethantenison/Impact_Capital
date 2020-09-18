@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" returnVersion="2016v3.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2017-05-02T14:32:07-04:00</ReturnTs>
+    <TaxPeriodEndDt>2016-12-31</TaxPeriodEndDt>
+    <ReturnTypeCd>990EZ</ReturnTypeCd>
+    <TaxPeriodBeginDt>2016-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>950751488</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Free and Accepted Masons Culver City-Foshay No 467</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>FREE</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>9635 Venice Blvd</AddressLine1Txt>
+        <CityNm>Culver City</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>902322625</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Thomas Boyer</PersonNm>
+      <PersonTitleTxt>CFO</PersonTitleTxt>
+      <PhoneNum>4152929133</PhoneNum>
+      <SignatureDt>2017-05-02</SignatureDt>
+    </BusinessOfficerGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>209.49.58.62</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2017-05-02</IPDt>
+      <IPTm>14:34:40</IPTm>
+      <FederalOriginalSubmissionId>9462792017122m3jwsfm</FederalOriginalSubmissionId>
+      <FederalOriginalSubmissionIdDt>2017-05-02</FederalOriginalSubmissionIdDt>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>D9879DD57D772A639ED5C8D87161E149F029070D</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>D9879DD57D772A639ED5C8D87161E149F029070D</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2016</TaxYr>
+    <BuildTS>2017-02-10 21:41:12Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="2">
+    <IRS990EZ documentId="IRS990EZ">
+      <GroupExemptionNum>0214</GroupExemptionNum>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+      <Organization501cInd organization501cTypeTxt="10">X</Organization501cInd>
+      <TypeOfOrganizationOtherInd>X</TypeOfOrganizationOtherInd>
+      <TypeOfOrganizationOtherDesc>See Sched O</TypeOfOrganizationOtherDesc>
+      <GrossReceiptsAmt>83251</GrossReceiptsAmt>
+      <InfoInScheduleOPartIInd>X</InfoInScheduleOPartIInd>
+      <ContributionsGiftsGrantsEtcAmt>339</ContributionsGiftsGrantsEtcAmt>
+      <ProgramServiceRevenueAmt>4622</ProgramServiceRevenueAmt>
+      <MembershipDuesAmt>35572</MembershipDuesAmt>
+      <InvestmentIncomeAmt>41522</InvestmentIncomeAmt>
+      <OtherRevenueTotalAmt>1196</OtherRevenueTotalAmt>
+      <TotalRevenueAmt>83251</TotalRevenueAmt>
+      <GrantsAndSimilarAmountsPaidAmt>125</GrantsAndSimilarAmountsPaidAmt>
+      <SalariesOtherCompEmplBnftAmt>7452</SalariesOtherCompEmplBnftAmt>
+      <OccupancyRentUtltsAndMaintAmt>6219</OccupancyRentUtltsAndMaintAmt>
+      <PrintingPublicationsPostageAmt>713</PrintingPublicationsPostageAmt>
+      <OtherExpensesTotalAmt>24001</OtherExpensesTotalAmt>
+      <TotalExpensesAmt>38510</TotalExpensesAmt>
+      <ExcessOrDeficitForYearAmt>44741</ExcessOrDeficitForYearAmt>
+      <NetAssetsOrFundBalancesBOYAmt>95736</NetAssetsOrFundBalancesBOYAmt>
+      <OtherChangesInNetAssetsAmt>3354</OtherChangesInNetAssetsAmt>
+      <NetAssetsOrFundBalancesEOYAmt>143831</NetAssetsOrFundBalancesEOYAmt>
+      <InfoInScheduleOPartIIInd>X</InfoInScheduleOPartIIInd>
+      <CashSavingsAndInvestmentsGrp>
+        <BOYAmt>94570</BOYAmt>
+        <EOYAmt>143699</EOYAmt>
+      </CashSavingsAndInvestmentsGrp>
+      <LandAndBuildingsGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </LandAndBuildingsGrp>
+      <OtherAssetsTotalDetail>
+        <BOYAmt>1166</BOYAmt>
+        <EOYAmt>854</EOYAmt>
+      </OtherAssetsTotalDetail>
+      <Form990TotalAssetsGrp>
+        <BOYAmt>95736</BOYAmt>
+        <EOYAmt>144553</EOYAmt>
+      </Form990TotalAssetsGrp>
+      <SumOfTotalLiabilitiesGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>722</EOYAmt>
+      </SumOfTotalLiabilitiesGrp>
+      <NetAssetsOrFundBalancesGrp>
+        <BOYAmt>95736</BOYAmt>
+        <EOYAmt>143831</EOYAmt>
+      </NetAssetsOrFundBalancesGrp>
+      <PrimaryExemptPurposeTxt>See Sched O</PrimaryExemptPurposeTxt>
+      <ProgramSrvcAccomplishmentGrp>
+        <DescriptionProgramSrvcAccomTxt>See Sched O</DescriptionProgramSrvcAccomTxt>
+      </ProgramSrvcAccomplishmentGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>Michael L Miller</PersonNm>
+        <TitleTxt>Master</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>4.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+        <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+        <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>Benjamin A Villanueva</PersonNm>
+        <TitleTxt>Senior Warden</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>4.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+        <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+        <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>Colby D Murray</PersonNm>
+        <TitleTxt>Junior Warden</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>4.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+        <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+        <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>Douglas S Warner</PersonNm>
+        <TitleTxt>Treasurer</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>6.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+        <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+        <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>Clarence D Kussner</PersonNm>
+        <TitleTxt>Secretary</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>6.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>4550</CompensationAmt>
+        <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+        <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+      <ChgMadeToOrgnzngDocNotRptInd>false</ChgMadeToOrgnzngDocNotRptInd>
+      <OrganizationHadUBIInd>false</OrganizationHadUBIInd>
+      <SubjectToProxyTaxInd>false</SubjectToProxyTaxInd>
+      <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+      <Form1120PolFiledInd>false</Form1120PolFiledInd>
+      <MadeLoansToFromOfficersInd>false</MadeLoansToFromOfficersInd>
+      <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      <StatesWhereCopyOfReturnIsFldCd>CA</StatesWhereCopyOfReturnIsFldCd>
+      <BooksInCareOfDetail>
+        <PersonNm>Clarence D Kussner</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>9635 Venice Blvd</AddressLine1Txt>
+          <CityNm>Culver City</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>902322625</ZIPCd>
+        </USAddress>
+        <PhoneNum>3108360467</PhoneNum>
+      </BooksInCareOfDetail>
+      <ForeignFinancialAccountInd>false</ForeignFinancialAccountInd>
+      <ForeignOfficeInd>false</ForeignOfficeInd>
+      <DonorAdvisedFndsInd>false</DonorAdvisedFndsInd>
+      <OperateHospitalInd>false</OperateHospitalInd>
+      <TanningServicesProvidedInd>false</TanningServicesProvidedInd>
+      <RelatedOrganizationCtrlEntInd>false</RelatedOrganizationCtrlEntInd>
+      <TransactionWithControlEntInd>false</TransactionWithControlEntInd>
+      <PoliticalCampaignActyInd>false</PoliticalCampaignActyInd>
+      <FiledScheduleAInd>false</FiledScheduleAInd>
+    </IRS990EZ>
+    <IRS990ScheduleO documentId="990O">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>General explanation attachment</FormAndLineReferenceDesc>
+        <ExplanationTxt>K. Form or Organization - Fraternal Unincorporated OrganizationPart III. Statement of Program Accomplishments What is the organizations primary exempt purpose.A man who strives to improve himself can also improve his community and the world at large. This is the mission of the Masons of California. Through Masonic principles and tradition, we foster personal growth and improve the lives of others.Freemasonry in California is a relevant and respected organization - both inside and outside of the Fraternity. Through our culture of Philanthropy, we make a profound difference in the lives of our members and in California communities. We are engaged in the worldwide principles and fellowship of Freemasonry.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Description of other revenue Part I line 8</FormAndLineReferenceDesc>
+        <ExplanationTxt>Description AmountMiscellaneous Receipts 1,196</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>List of grants and similar amounts paid Part I line 10</FormAndLineReferenceDesc>
+        <ExplanationTxt>Amount 125</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Description of other expenses Part I line 16</FormAndLineReferenceDesc>
+        <ExplanationTxt>Description AmountPer Capita Fees 8,912Meeting, Conference and Convention 6,729Fraternal Expenses 2,511Education and Traning 1,898Program Expenses 1,752Youth Order 780Ritual Expenses 750Public School Observance 350Miscellaneous Expenses 200Bank Fees 103Masonic Relief 16</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Other changes in net assets or fund balances Part I line 20</FormAndLineReferenceDesc>
+        <ExplanationTxt>Description AmountUnrealized Gains/Losses From Inv. 3,354</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Description of other assets Part II line 24</FormAndLineReferenceDesc>
+        <ExplanationTxt>Category Beginning of Year End of YearProperty and Equipment 1,166 854</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Description of total liabilities Part II line 26</FormAndLineReferenceDesc>
+        <ExplanationTxt>Category Beginning of Year End of YearPayroll Payable 0 722</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>
