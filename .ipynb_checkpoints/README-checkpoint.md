@@ -11,7 +11,7 @@ The aim of this research project is to analyze the impact of resource diversific
 
 <br />
 
-The nonprofit sector in the United States is huge, representing more than \\$1 trillion dollars, or 5.6 percent of the US economy. Due to the limited social safety net, many communities rely on nonprofits for social services including healthcare, education, religious services, and housing assistance. It is no secret however that nonprofits are often financial unstable. In fact, based on a survey conducted by the Nonprofit Financial Fund in 2018, 50% of nonprofits are either in a financial deficit or barely breaking even, and this is even more of a concern for young nonprofits.
+The nonprofit sector in the United States is huge, representing more than \$1 trillion dollars, or 5.6 percent of the US economy. Due to the limited social safety net, many communities rely on nonprofits for social services including healthcare, education, religious services, and housing assistance. It is no secret however that nonprofits are often financial unstable. In fact, based on a survey conducted by the Nonprofit Financial Fund in 2018, 50% of nonprofits are either in a financial deficit or barely breaking even, and this is even more of a concern for young nonprofits.
 
 <br />
 
