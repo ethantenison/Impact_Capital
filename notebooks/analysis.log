@@ -1484,3 +1484,20 @@
 2020-10-14 09:40:27,074: findfont: score(<Font 'MS Reference Sans Serif' (REFSAN.TTF) normal normal 400 normal>) = 10.05
 2020-10-14 09:40:27,074: findfont: score(<Font 'Gadugi' (gadugi.ttf) normal normal 400 normal>) = 10.05
 2020-10-14 09:40:27,074: findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to Arial ('C:\\Windows\\Fonts\\arial.ttf') with score of 0.050000.
+2020-10-22 13:05:51,984: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2020-10-22 13:05:52,223: https://raw.githubusercontent.com:443 "GET /ma-ji/npo_classifier/master/API/npoclass.py HTTP/1.1" 200 2043
+2020-10-22 13:16:07,611: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2020-10-22 13:16:07,841: https://raw.githubusercontent.com:443 "GET /ma-ji/npo_classifier/master/API/npoclass.py HTTP/1.1" 200 2043
+2020-10-22 13:16:54,673: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2020-10-22 13:16:54,749: https://raw.githubusercontent.com:443 "GET /ma-ji/npo_classifier/master/API/npoclass.py HTTP/1.1" 200 2043
+2020-10-22 13:18:06,657: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2020-10-22 13:18:06,737: https://raw.githubusercontent.com:443 "GET /ma-ji/npo_classifier/master/API/npoclass.py HTTP/1.1" 200 2043
+2020-10-22 13:20:41,474: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2020-10-22 13:20:41,558: https://raw.githubusercontent.com:443 "GET /ma-ji/npo_classifier/master/API/npoclass.py HTTP/1.1" 200 2043
+2020-10-22 13:20:42,363: Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2020-10-22 13:22:04,958: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x00000251AF1F3070>
+2020-10-22 13:22:04,958: Using auto colorbar locator on colorbar
+2020-10-22 13:22:04,959: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x00000251AF1F3070>
+2020-10-22 13:22:04,959: Setting pcolormesh
+2020-10-22 13:28:57,462: Starting new HTTPS connection (1): s3.amazonaws.com:443
+2020-10-22 13:28:57,689: https://s3.amazonaws.com:443 "HEAD /models.huggingface.co/bert/npoclass_model_bc//config.json HTTP/1.1" 404 0
