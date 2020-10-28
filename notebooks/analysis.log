@@ -1501,3 +1501,4 @@
 2020-10-22 13:22:04,959: Setting pcolormesh
 2020-10-22 13:28:57,462: Starting new HTTPS connection (1): s3.amazonaws.com:443
 2020-10-22 13:28:57,689: https://s3.amazonaws.com:443 "HEAD /models.huggingface.co/bert/npoclass_model_bc//config.json HTTP/1.1" 404 0
+2020-10-28 12:56:39,366: NumExpr defaulting to 8 threads.
