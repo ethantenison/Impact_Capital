@@ -33,8 +33,67 @@ raw <- read_csv("data/processed/data2015.csv",
 ```{r, histograms}
 #50,000,000,000 range
 theme_set(theme_bw())
+setwd("C:/Users/tenis/OneDrive/Desktop/Data_Projects/Impact_Capital")
+df = dplyr::filter(raw, CYTotalExpensesAmt < 8028353 &
+                     CYTotalExpensesAmt >= 0)
+df = rename(df, "Category" = recommended)
 
-df = dplyr::filter(raw, CYTotalExpensesAmt < 5000000 &
+df$Category[df$Category == "I"] <- "Arts and Culture"
+df$Category[df$Category == "II"] <- "Education"
+df$Category[df$Category == "III"] <- "Environment and Animals"
+df$Category[df$Category == "IV"] <- "Health"
+df$Category[df$Category == "V"] <- "Human Services"
+df$Category[df$Category == "VI"] <- "International"
+df$Category[df$Category == "VII"] <- "Societal Benefit"
+df$Category[df$Category == "VIII"] <- "Religion"
+df$Category[df$Category == "VIII"] <- "Religion"
+df$Category[df$Category == "IX"] <- "Mutual/Membership Benefit"
+
+ 
+
+p <- ggplot(df, aes(x = CYTotalExpensesAmt,
+                    )) + #fill = Category,
+                    #color = Category
+  geom_histogram(
+    position = "stack",
+    alpha = 0.9,
+    color = "#F2F2F2",
+    fill = "#486F73",
+    bins = 50
+  ) +
+  theme(
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+    axis.line = element_line(colour = "black"),
+    axis.title.x = element_text(vjust = -1),
+    axis.title.y = element_text(vjust = 2),
+    text = element_text(
+      family = "Times",
+      face = "bold",
+      size = 20
+    ),
+    plot.title = element_text(hjust = 0.5),
+    plot.margin = margin(10, 10, 10, 10)
+  ) +
+  xlab("Total Expenditures") +
+  ylab("Number of Nonprofits") +
+  labs(title = "Nonprofit Expenditures (2015)") +
+  scale_x_continuous(labels = scales::dollar) +
+  scale_y_continuous(label=comma) +
+  scale_fill_brewer(palette = "Paired") +
+  scale_color_brewer(palette = "Paired")
+
+p
+
+ggsave("reports/nonprofit_expenditure.png",width = 14, height =7, dpi = 500, units=c("in"))
+```
+
+```{r histogram_category}
+
+#50,000,000,000 range
+theme_set(theme_bw())
+setwd("C:/Users/tenis/OneDrive/Desktop/Data_Projects/Impact_Capital")
+df = dplyr::filter(raw, CYTotalExpensesAmt < 8028353 &
                      CYTotalExpensesAmt >= 0)
 df = rename(df, "Category" = recommended)
 
@@ -53,7 +112,8 @@ df$Category[df$Category == "IX"] <- "Mutual/Membership Benefit"
 
 p <- ggplot(df, aes(x = CYTotalExpensesAmt,
                     fill = Category,
-                    color = Category)) +
+                    color = Category
+                    )) + 
   geom_histogram(
     position = "stack",
     alpha = 0.9,
@@ -85,13 +145,13 @@ p <- ggplot(df, aes(x = CYTotalExpensesAmt,
 
 p
 
-ggsave("reports/nonprofit_expenditure.png",width = 14, height =7, dpi = 500, units=c("in"))
+ggsave("reports/nonprofit_expenditure_category.png",width = 14, height =7, dpi = 500, units=c("in"))
 ```
 
 **Categories**
 
 ```{r, categories}
-
+setwd("C:/Users/tenis/OneDrive/Desktop/Data_Projects/Impact_Capital")
 cate = df %>% count(Category, sort = TRUE, name = "n")
 
 cate$Category <-
@@ -112,7 +172,7 @@ cate$Category <-
 
 p <- ggplot(cate, aes(
   y = n,
-  x = reorder(Category,-n),
+  x = reorder(Category,n),
   fill = Category,
   color = Category
 )) +
@@ -121,10 +181,11 @@ p <- ggplot(cate, aes(
     panel.grid.minor = element_blank(),
     panel.background = element_blank(),
     axis.line = element_line(colour = "black"),
-    axis.title.x = element_blank(),
-    axis.text.x = element_blank(),
-    axis.title.y = element_text(vjust = 2),
+    #axis.title.x = element_blank(),
+    #axis.text.x = element_blank(),
+    axis.title.y = element_blank(),
     legend.title = element_blank(),
+    legend.position = "none",
     text = element_text(
       family = "Times",
       face = "bold",
@@ -133,6 +194,7 @@ p <- ggplot(cate, aes(
     plot.title = element_text(hjust = 0.5),
     plot.margin = margin(10, 10, 10, 10)
   ) +
+  coord_flip() +
   ylab("Total Number of Nonprofits") +
   labs(title = "Nonprofit by NTEE Category (2015)") +
   scale_y_continuous(label = comma) +
