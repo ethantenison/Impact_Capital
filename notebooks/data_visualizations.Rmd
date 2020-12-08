@@ -1,0 +1,321 @@
+---
+title: "data visualizations"
+output: html_document
+---
+
+```{r libraries, include=FALSE}
+
+library(ggplot2)
+library(tidyverse)
+library(scales)
+library(viridis)
+windowsFonts(Times=windowsFont("Times New Roman"))
+```
+
+## Visualizations for nonprofits
+
+```{r, data}
+options(scipen=999)
+setwd("C:/Users/tenis/OneDrive/Desktop/Data_Projects/Impact_Capital")
+library(readr)
+raw <- read_csv("data/processed/data2015.csv", 
+    col_types = cols(X1 = col_skip(), TaxYr = col_skip(), 
+        TaxPeriodBeginDt = col_skip(), TaxPeriodEndDt = col_skip(), 
+        ReturnTs = col_skip()))
+
+
+```
+
+**GGPLOT!**
+
+**Histogram of total**
+
+```{r, histograms}
+#50,000,000,000 range
+theme_set(theme_bw())
+
+df = dplyr::filter(raw, CYTotalExpensesAmt < 5000000 &
+                     CYTotalExpensesAmt >= 0)
+df = rename(df, "Category" = recommended)
+
+df$Category[df$Category == "I"] <- "Arts and Culture"
+df$Category[df$Category == "II"] <- "Education"
+df$Category[df$Category == "III"] <- "Environment and Animals"
+df$Category[df$Category == "IV"] <- "Health"
+df$Category[df$Category == "V"] <- "Human Services"
+df$Category[df$Category == "VI"] <- "International"
+df$Category[df$Category == "VII"] <- "Societal Benefit"
+df$Category[df$Category == "VIII"] <- "Religion"
+df$Category[df$Category == "VIII"] <- "Religion"
+df$Category[df$Category == "IX"] <- "Mutual/Membership Benefit"
+
+ 
+
+p <- ggplot(df, aes(x = CYTotalExpensesAmt,
+                    fill = Category,
+                    color = Category)) +
+  geom_histogram(
+    position = "stack",
+    alpha = 0.9,
+    #color = "#F2F2F2",
+    #fill = "#486F73",
+    bins = 50
+  ) +
+  theme(
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+    axis.line = element_line(colour = "black"),
+    axis.title.x = element_text(vjust = -1),
+    axis.title.y = element_text(vjust = 2),
+    text = element_text(
+      family = "Times",
+      face = "bold",
+      size = 20
+    ),
+    plot.title = element_text(hjust = 0.5),
+    plot.margin = margin(10, 10, 10, 10)
+  ) +
+  xlab("Total Expenditures") +
+  ylab("Number of Nonprofits") +
+  labs(title = "Nonprofit Expenditures (2015)") +
+  scale_x_continuous(labels = scales::dollar) +
+  scale_y_continuous(label=comma) +
+  scale_fill_brewer(palette = "Paired") +
+  scale_color_brewer(palette = "Paired")
+
+p
+
+ggsave("reports/nonprofit_expenditure.png",width = 14, height =7, dpi = 500, units=c("in"))
+```
+
+**Categories**
+
+```{r, categories}
+
+cate = df %>% count(Category, sort = TRUE, name = "n")
+
+cate$Category <-
+  factor(
+    cate$Category,
+    levels = c(
+      "Human Services",
+      "Societal Benefit",
+      "Education",
+      "Health",
+      "Arts and Culture",
+      "Mutual/Membership Benefit",
+      "Environment and Animals",
+      "Religion",
+      "International"
+    )
+  )
+
+p <- ggplot(cate, aes(
+  y = n,
+  x = reorder(Category,-n),
+  fill = Category,
+  color = Category
+)) +
+  geom_bar(stat = "identity") +
+  theme(
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+    axis.line = element_line(colour = "black"),
+    axis.title.x = element_blank(),
+    axis.text.x = element_blank(),
+    axis.title.y = element_text(vjust = 2),
+    legend.title = element_blank(),
+    text = element_text(
+      family = "Times",
+      face = "bold",
+      size = 20
+    ),
+    plot.title = element_text(hjust = 0.5),
+    plot.margin = margin(10, 10, 10, 10)
+  ) +
+  ylab("Total Number of Nonprofits") +
+  labs(title = "Nonprofit by NTEE Category (2015)") +
+  scale_y_continuous(label = comma) +
+  scale_fill_brewer(palette = "Paired") +
+  scale_color_brewer(palette = "Paired")
+
+p
+
+ggsave(
+  "reports/nonprofit_categories.png",
+  width = 14,
+  height = 7,
+  dpi = 500,
+  units = c("in")
+)
+
+
+```
+
+```{r random_forest_feature_importanace}
+library(readr)
+setwd("C:/Users/tenis/OneDrive/Desktop/Data_Projects/Impact_Capital")
+imp <- read_csv("data/processed/featureimp_diversification.csv")
+
+imp = rename(imp, "Variable" = "X1", "Feature_importance" = "0")
+
+imp$Variable <- sub("_", " ", imp$Variable)
+imp$Variable <- sub("_", " ", imp$Variable)
+imp$Variable[imp$Variable == "org size"] <- "Organization Size"
+imp$Variable[imp$Variable == "FormationYr"] <- "Age"
+
+
+```
+
+```{r nose}
+imp$Variable[imp$Variable == "NTEE Code I"] <- "Arts and Culture"
+imp$Variable[imp$Variable == "NTEE Code II"] <- "Education"
+imp$Variable[imp$Variable == "NTEE Code III"] <- "Environment and Animals"
+imp$Variable[imp$Variable == "NTEE Code IV"] <- "Health"
+imp$Variable[imp$Variable == "NTEE Code V"] <- "Human Services"
+imp$Variable[imp$Variable == "NTEE Code VI"] <- "International"
+imp$Variable[imp$Variable == "NTEE Code VII"] <- "Societal Benefit"
+imp$Variable[imp$Variable == "NTEE Code VIII"] <- "Religion"
+imp$Variable[imp$Variable == "NTEE Code IX"] <- "Mutual/Membership Benefit"
+
+
+imp$Variable <-
+  factor(
+    imp$Variable,
+    levels = c(
+      "Organization Size",
+      "Profitability",
+      "Ratio Equity Revenue",
+      "Operating Margin",
+      "Revenue Diversification",
+      "Ratio ProgramExp Rev",
+      "Age",
+      "Solvency",
+      "Ratio AdminExp Exp",
+      "Unemployment Rate",
+      "Median Household Income",
+      "Latino",
+      "Black",
+      "Nonprofit Density",
+      "Population",
+      "White",
+      "Asian",
+      "Native American",
+      "Human Services",
+      "Societal Benefit",
+      "Education",
+      "Health",
+      "Arts and Culture",
+      "Environment and Animals",
+      "Religion",
+      "Mutual/Membership Benefit",
+      "International"
+    )
+  )
+
+
+
+
+
+```
+
+```{r nose2}
+
+setwd("C:/Users/tenis/OneDrive/Desktop/Data_Projects/Impact_Capital")
+p <- ggplot(imp, aes(
+  y = Feature_importance,
+  x = reorder(Variable,Feature_importance),
+  fill = Variable,
+  color = Variable
+)) +
+  geom_bar(stat = "identity") +
+  theme(
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+    axis.line = element_line(colour = "black"),
+    axis.title.y = element_blank(),
+    #axis.text.x = element_blank(),
+    #axis.title.y = element_text(vjust = 2),
+    legend.title = element_blank(),
+    legend.position = "none",
+    text = element_text(
+      family = "Times",
+      face = "bold",
+      size = 20
+    ),
+    plot.title = element_text(hjust = 0.5),
+    plot.margin = margin(10, 10, 10, 10)
+  ) +
+  coord_flip() +
+  ylab("Feature Importance") +
+  labs(title = "Random Forest Feature Importance") 
+
+
+p
+
+ggsave(
+  "./reports/randomforest_feature_importance2.png",
+  width = 14,
+  height = 7,
+  dpi = 500,
+  units = c("in")
+)
+
+
+```
+
+```{r ROC}
+
+setwd("C:/Users/tenis/OneDrive/Desktop/Data_Projects/Impact_Capital")
+library(readr)
+RF_ROC <-
+  read_csv(
+    "C:/Users/tenis/OneDrive/Desktop/Data_Projects/Impact_Capital/data/processed/RF_ROC.csv"
+  )
+
+ROC <-
+  RF_ROC %>% select(X1,tp_rate, tn_rate, accuracy, model_probability) %>% pivot_longer(
+    .,
+    cols = c(tn_rate,tp_rate, accuracy),
+    names_to = "Var",
+    values_to = "Val"
+  )
+
+ROC$Var[ROC$Var == "accuracy"] <- "Accuracy"
+ROC$Var[ROC$Var == "tn_rate"] <- "True Negative"
+ROC$Var[ROC$Var == "tp_rate"] <- "True Positive"
+
+theme_set(theme_bw())
+ggplot(data = ROC, aes(x = model_probability, y = Val, group = Var)) +
+  theme(
+    # legend.background = element_rect(fill = "transparent", color = "transparent"),
+    # legend.box.background = element_rect(fill = "transparent"),
+    # legend.key = element_rect(fill = "transparent"),
+    # legend.spacing = unit(-1, "lines"),
+    panel.background = element_blank(),
+    axis.line = element_line(colour = "black"),
+    text = element_text(
+      family = "Times",
+      face = "bold",
+      size = 20
+    ),
+    axis.title.x = element_text(vjust = 0),
+    axis.text.y = element_text(hjust = 1.25),
+    axis.title.y = element_text(vjust = 2),
+    plot.title = element_text(hjust = 0.5),
+    legend.title = element_blank()
+  ) +
+  geom_line(aes(color = Var),
+            size = 1,
+            stat = "identity") +
+  xlab("Model Probability") +
+  ylab("Percentage") +
+  labs(title = "Receiver Operating Characteristic") 
+  ggsave(
+    "./reports/ROC.png",
+    width = 14,
+    height = 7,
+    dpi = 500
+  )
+
+```
