@@ -34,7 +34,7 @@ raw <- read_csv("data/processed/data2015.csv",
 #50,000,000,000 range
 theme_set(theme_bw())
 setwd("C:/Users/tenis/OneDrive/Desktop/Data_Projects/Impact_Capital")
-df = dplyr::filter(raw, CYTotalExpensesAmt < 8028353 &
+df = dplyr::filter(raw, CYTotalExpensesAmt < 8710788 &
                      CYTotalExpensesAmt >= 0)
 df = rename(df, "Category" = recommended)
 
@@ -70,14 +70,14 @@ p <- ggplot(df, aes(x = CYTotalExpensesAmt,
     text = element_text(
       family = "Times",
       face = "bold",
-      size = 20
+      size = 30
     ),
     plot.title = element_text(hjust = 0.5),
     plot.margin = margin(10, 10, 10, 10)
   ) +
   xlab("Total Expenditures") +
   ylab("Number of Nonprofits") +
-  labs(title = "Nonprofit Expenditures (2015)") +
+  #labs(title = "Nonprofit Expenditures (2015)") +
   scale_x_continuous(labels = scales::dollar) +
   scale_y_continuous(label=comma) +
   scale_fill_brewer(palette = "Paired") +
@@ -130,14 +130,14 @@ p <- ggplot(df, aes(x = CYTotalExpensesAmt,
     text = element_text(
       family = "Times",
       face = "bold",
-      size = 20
+      size = 30
     ),
-    plot.title = element_text(hjust = 0.5),
+    plot.title = element_blank(),
     plot.margin = margin(10, 10, 10, 10)
   ) +
   xlab("Total Expenditures") +
   ylab("Number of Nonprofits") +
-  labs(title = "Nonprofit Expenditures (2015)") +
+  #labs(title = "Nonprofit Expenditures (2015)") +
   scale_x_continuous(labels = scales::dollar) +
   scale_y_continuous(label=comma) +
   scale_fill_brewer(palette = "Paired") +
@@ -189,14 +189,14 @@ p <- ggplot(cate, aes(
     text = element_text(
       family = "Times",
       face = "bold",
-      size = 20
+      size = 30
     ),
-    plot.title = element_text(hjust = 0.5),
+    plot.title = element_blank(),
     plot.margin = margin(10, 10, 10, 10)
   ) +
   coord_flip() +
   ylab("Total Number of Nonprofits") +
-  labs(title = "Nonprofit by NTEE Category (2015)") +
+  #labs(title = "Nonprofit by Category (2015)") +
   scale_y_continuous(label = comma) +
   scale_fill_brewer(palette = "Paired") +
   scale_color_brewer(palette = "Paired")
@@ -303,14 +303,14 @@ p <- ggplot(imp, aes(
     text = element_text(
       family = "Times",
       face = "bold",
-      size = 20
+      size = 25
     ),
     plot.title = element_text(hjust = 0.5),
     plot.margin = margin(10, 10, 10, 10)
   ) +
   coord_flip() +
-  ylab("Feature Importance") +
-  labs(title = "Random Forest Feature Importance") 
+  ylab("Feature Importance") 
+  #labs(title = "Random Forest Feature Importance") 
 
 
 p
