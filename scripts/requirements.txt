@@ -201,7 +201,7 @@ prompt-toolkit
 protobuf
 psutil==5.7.0
 ptyprocess==0.6.0
-py==1.8.1
+py==1.10.0
 py-params==0.8.2
 pyarrow==1.0.1
 pyasn1==0.4.8
